@@ -818,6 +818,194 @@ def generate_sitemap(urls):
 
 
 # ──────────────────────────────────────────────
+# XML JOB FEEDS (Indeed, Jooble, Adzuna, etc.)
+# ──────────────────────────────────────────────
+
+def _cdata(text):
+    """Wrap text in CDATA for XML."""
+    return f"<![CDATA[{text}]]>"
+
+
+def _xml_escape(text):
+    """Escape text for XML (non-CDATA contexts)."""
+    return (text
+            .replace("&", "&amp;")
+            .replace("<", "&lt;")
+            .replace(">", "&gt;")
+            .replace('"', "&quot;")
+            .replace("'", "&apos;"))
+
+
+def _cluster_to_category(cluster):
+    """Map our cluster names to generic job categories."""
+    mapping = {
+        "A — Construction": "Construction",
+        "B — Healthcare": "Healthcare",
+        "C — Logistics": "Logistics & Warehousing",
+        "D — Manufacturing": "Manufacturing",
+        "E — Food & Hospitality": "Food & Hospitality",
+        "F — Emergency Services": "Emergency Services",
+        "G — Skilled Trades": "Skilled Trades",
+        "H — Agriculture": "Agriculture & Environment",
+        "I — Education & Care": "Education & Social Care",
+        "J — Specialist Niches": "Specialist",
+        "K — Hazardous & Specialist": "Hazardous & Specialist",
+    }
+    return mapping.get(cluster, "Other")
+
+
+def _experience_years(pay_tier):
+    """Estimate minimum experience from pay tier for feed metadata."""
+    mapping = {
+        "Tier 1 — Standard": "1",
+        "Tier 2 — Skilled": "3",
+        "Tier 3 — Specialist": "3",
+        "Tier 4 — High Scarcity": "3",
+        "Tier 5 — Elite": "5",
+    }
+    return mapping.get(pay_tier, "1")
+
+
+def generate_indeed_feed(jobs, job_html):
+    """Generate Indeed-format XML feed. Also works for SimplyHired/Glassdoor."""
+    from email.utils import formatdate
+    import time
+
+    build_date = formatdate(time.time(), usegmt=True)
+    job_entries = []
+
+    for job in jobs:
+        description = job_html.get(job["id"], "")
+        for cc in job["target_countries"]:
+            if cc not in COUNTRIES:
+                continue
+            country = COUNTRIES[cc]
+            m = country["multiplier"]
+            cur = country["currency"]
+            sym = "$" if cur == "USD" else "EUR"
+
+            salary_str = ""
+            if job["hourly_min"] > 0:
+                sal_min = round(job["hourly_min"] * m)
+                sal_max = round(job["hourly_max"] * m)
+                salary_str = f"{sal_min}-{sal_max} {cur} per hour"
+
+            ref = f"{job['post_id']}-{cc}"
+            url = f"{BASE_URL}/{cc.lower()}/{job['slug']}/"
+
+            job_entries.append(f"""  <job>
+    <title>{_xml_escape(job['profession'])} — Observer Programme</title>
+    <date>{TODAY}</date>
+    <referencenumber>{_xml_escape(ref)}</referencenumber>
+    <url>{_xml_escape(url)}</url>
+    <company>Aisthis</company>
+    <city></city>
+    <state></state>
+    <country>{country['address_country']}</country>
+    <postalcode></postalcode>
+    <description>{_cdata(description)}</description>
+    <salary>{_xml_escape(salary_str)}</salary>
+    <jobtype>contract</jobtype>
+    <category>{_xml_escape(_cluster_to_category(job['cluster']))}</category>
+    <experience>{_experience_years(job['pay_tier'])}+ years</experience>
+  </job>""")
+
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
+<source>
+  <publisher>Aisthis</publisher>
+  <publisherurl>https://www.aisthis.com</publisherurl>
+  <lastBuildDate>{build_date}</lastBuildDate>
+{"".join(job_entries)}
+</source>"""
+
+
+def generate_jooble_feed(jobs, job_html):
+    """Generate Jooble-format XML feed."""
+    job_entries = []
+    today_jooble = datetime.now(timezone.utc).strftime("%d.%m.%Y")
+
+    for job in jobs:
+        description = job_html.get(job["id"], "")
+        for cc in job["target_countries"]:
+            if cc not in COUNTRIES:
+                continue
+            country = COUNTRIES[cc]
+            m = country["multiplier"]
+            cur = country["currency"]
+
+            salary_str = ""
+            if job["hourly_min"] > 0:
+                sym = "$" if cur == "USD" else "\u20ac"
+                sal_min = round(job["hourly_min"] * m)
+                sal_max = round(job["hourly_max"] * m)
+                salary_str = f"{sym}{sal_min}-{sym}{sal_max}/hour"
+
+            ref = f"{job['post_id']}-{cc}"
+            url = f"{BASE_URL}/{cc.lower()}/{job['slug']}/"
+
+            job_entries.append(f"""  <job>
+    <link>{_xml_escape(url)}</link>
+    <name>{_xml_escape(job['profession'])} — Observer Programme</name>
+    <region>{_xml_escape(country['name'])}</region>
+    <description>{_cdata(description)}</description>
+    <pubdate>{today_jooble}</pubdate>
+    <company>Aisthis</company>
+    <salary>{_xml_escape(salary_str)}</salary>
+    <jobtype>contract</jobtype>
+    <id>{_xml_escape(ref)}</id>
+  </job>""")
+
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
+<jobs>
+{"".join(job_entries)}
+</jobs>"""
+
+
+def generate_adzuna_feed(jobs, job_html):
+    """Generate Adzuna/Trovit/Talent.com compatible XML feed."""
+    job_entries = []
+
+    for job in jobs:
+        description = job_html.get(job["id"], "")
+        for cc in job["target_countries"]:
+            if cc not in COUNTRIES:
+                continue
+            country = COUNTRIES[cc]
+            m = country["multiplier"]
+            cur = country["currency"]
+
+            salary_min = ""
+            salary_max = ""
+            if job["hourly_min"] > 0:
+                salary_min = str(round(job["hourly_min"] * m, 2))
+                salary_max = str(round(job["hourly_max"] * m, 2))
+
+            ref = f"{job['post_id']}-{cc}"
+            url = f"{BASE_URL}/{cc.lower()}/{job['slug']}/"
+
+            job_entries.append(f"""  <ad>
+    <id>{_xml_escape(ref)}</id>
+    <url>{_xml_escape(url)}</url>
+    <title>{_xml_escape(job['profession'])} — Observer Programme</title>
+    <company>Aisthis</company>
+    <description>{_cdata(description)}</description>
+    <country>{country['address_country']}</country>
+    <category>{_xml_escape(_cluster_to_category(job['cluster']))}</category>
+    <contract>Contract</contract>
+    <salary_currency>{cur}</salary_currency>
+    <salary_min>{salary_min}</salary_min>
+    <salary_max>{salary_max}</salary_max>
+    <salary_frequency>hourly</salary_frequency>
+    <date>{TODAY}</date>
+  </ad>""")
+
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
+<ads>
+{"".join(job_entries)}
+</ads>"""
+
+
+# ──────────────────────────────────────────────
 # MAIN BUILD
 # ──────────────────────────────────────────────
 
@@ -865,11 +1053,9 @@ def main():
             if country_code not in COUNTRIES:
                 continue
 
-            # Create directory
             page_dir = OUTPUT_DIR / country_code.lower() / job["slug"]
             page_dir.mkdir(parents=True, exist_ok=True)
 
-            # Generate page
             html = generate_page_html(job, country_code, description_html)
             (page_dir / "index.html").write_text(html, encoding="utf-8")
 
@@ -885,12 +1071,46 @@ def main():
     sitemap_xml = generate_sitemap(all_urls)
     (OUTPUT_DIR / "sitemap-jobs.xml").write_text(sitemap_xml, encoding="utf-8")
 
-    print(f"\n✅ Done!")
-    print(f"   {page_count} job pages generated")
-    print(f"   {len(jobs)} jobs × {len(COUNTRIES)} max countries")
+    # Generate XML feeds for job boards
+    print(f"\n📡 Generating XML job feeds...")
+    feeds_dir = OUTPUT_DIR / "feeds"
+    feeds_dir.mkdir(parents=True, exist_ok=True)
+
+    # Indeed / SimplyHired / Glassdoor
+    indeed_xml = generate_indeed_feed(jobs, job_html)
+    (feeds_dir / "indeed.xml").write_text(indeed_xml, encoding="utf-8")
+
+    # Jooble
+    jooble_xml = generate_jooble_feed(jobs, job_html)
+    (feeds_dir / "jooble.xml").write_text(jooble_xml, encoding="utf-8")
+
+    # Adzuna / Trovit / Talent.com
+    adzuna_xml = generate_adzuna_feed(jobs, job_html)
+    (feeds_dir / "adzuna.xml").write_text(adzuna_xml, encoding="utf-8")
+
+    print(f"   ✅ feeds/indeed.xml (Indeed, SimplyHired, Glassdoor)")
+    print(f"   ✅ feeds/jooble.xml (Jooble — 68 countries)")
+    print(f"   ✅ feeds/adzuna.xml (Adzuna, Trovit, Talent.com)")
+
+    # Summary
+    feed_job_count = sum(
+        len([c for c in j["target_countries"] if c in COUNTRIES])
+        for j in jobs
+    )
+
+    print(f"\n✅ Build complete!")
+    print(f"   {page_count} HTML job pages (Google Jobs via JSON-LD)")
+    print(f"   {feed_job_count} job entries across XML feeds")
+    print(f"   {len(jobs)} professions × {len(COUNTRIES)} countries")
     print(f"   Landing page: {OUTPUT_DIR}/index.html")
     print(f"   Sitemap: {OUTPUT_DIR}/sitemap-jobs.xml")
-    print(f"\n📂 Output directory: {OUTPUT_DIR.resolve()}")
+    print(f"   Feeds: {feeds_dir}/")
+    print(f"\n📂 Output: {OUTPUT_DIR.resolve()}")
+    print(f"\n🔗 Feed URLs (once deployed to {BASE_URL}):")
+    print(f"   Indeed:  {BASE_URL}/feeds/indeed.xml")
+    print(f"   Jooble:  {BASE_URL}/feeds/jooble.xml")
+    print(f"   Adzuna:  {BASE_URL}/feeds/adzuna.xml")
+    print(f"   Sitemap: {BASE_URL}/sitemap-jobs.xml")
 
 
 if __name__ == "__main__":
