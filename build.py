@@ -41,7 +41,7 @@ OUTPUT_DIR = Path("./output")
 TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 # Only publish posts with this status (set to "Draft" for testing)
-PUBLISH_STATUS = "Draft"
+PUBLISH_STATUS = "Ready"
 
 # Default target countries if field is empty
 DEFAULT_COUNTRIES = ["NL", "DE", "FR", "BE", "UK", "US"]
