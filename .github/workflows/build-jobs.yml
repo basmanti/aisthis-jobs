@@ -1,0 +1,56 @@
+name: Build & Deploy Observer Job Pages
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'    # Every 6 hours
+  workflow_dispatch:            # Manual trigger from GitHub UI
+  push:
+    branches: [main]
+    paths: [build.py]           # Rebuild if script changes
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Build job pages + feeds
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+        run: python build.py
+
+      - name: Deploy to Cloudflare Pages
+        # Option A: Cloudflare Pages (recommended — free, fast, auto-SSL)
+        # Uncomment below and add CLOUDFLARE_API_TOKEN + CLOUDFLARE_ACCOUNT_ID as secrets
+        # uses: cloudflare/wrangler-action@v3
+        # with:
+        #   apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        #   accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        #   command: pages deploy output --project-name=aisthis-jobs
+
+        # Option B: FTP upload to mijndomein.com
+        # Uncomment below and add FTP_SERVER, FTP_USER, FTP_PASSWORD as secrets
+        # uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        # with:
+        #   server: ${{ secrets.FTP_SERVER }}
+        #   username: ${{ secrets.FTP_USER }}
+        #   password: ${{ secrets.FTP_PASSWORD }}
+        #   local-dir: ./output/
+        #   server-dir: /public_html/    # Adjust to your hosting path
+
+        # Option C: GitHub Pages (simplest — deploy from this repo)
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          cname: jobs.aisthis.com
