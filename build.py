@@ -36,12 +36,14 @@ NOTION_API_KEY = os.environ.get("NOTION_API_KEY", "")
 DATABASE_ID = "39e18306-969e-4fbe-8fee-35914297270f"
 BASE_URL = "https://jobs.aisthis.com"
 LOGO_URL = "https://www.aisthis.com/logo.png"
-APPLY_URL = "https://www.aisthis.com/observers"
+APPLY_URL = "https://observer.aisthis.com/apply"
+OBSERVER_EMAIL = "observer.jobs@aisthis.com"
 OUTPUT_DIR = Path("./output")
 TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-# Only publish posts with this status (set to "Draft" for testing)
-PUBLISH_STATUS = "Ready"
+# Publish posts with these statuses
+# Ready = normal publish, Paused = publish with "paused hiring" banner
+PUBLISH_STATUSES = ["Ready", "Paused"]
 
 # Default target countries if field is empty
 DEFAULT_COUNTRIES = ["NL", "DE", "FR", "BE", "UK", "US"]
@@ -150,7 +152,7 @@ def parse_job_post(page: dict):
     props = page.get("properties", {})
     status = extract_property(props, "Status")
 
-    if status != PUBLISH_STATUS:
+    if status not in PUBLISH_STATUSES:
         return None
 
     slug = extract_property(props, "Slug")
@@ -169,6 +171,7 @@ def parse_job_post(page: dict):
 
     return {
         "id": page["id"],
+        "status": status,
         "title": extract_property(props, "Job Post Title"),
         "profession": extract_property(props, "Profession"),
         "profession_code": extract_property(props, "Profession Code"),
@@ -316,6 +319,47 @@ def generate_jsonld(job: dict, country_code: str, description_html: str) -> str:
 
 
 # ──────────────────────────────────────────────
+# CONTENT FILTERING (strip friction copy)
+# ──────────────────────────────────────────────
+
+def _filter_friction_content(html):
+    """Remove friction-creating content from job page HTML."""
+    # Remove "Dedicated contact person" lines
+    html = re.sub(r'<li>[^<]*[Dd]edicated contact person[^<]*</li>\s*', '', html)
+
+    # Remove "biometric wristband if you don't own..." lines
+    html = re.sub(r'<li>[^<]*[Bb]iometric wristband[^<]*</li>\s*', '', html)
+    html = re.sub(r'<li>[^<]*wristband if you don[^<]*</li>\s*', '', html)
+
+    # Remove single-line mentions of wristband provision (but keep "wear a wristband" instructions)
+    html = re.sub(r'<li>[^<]*[Ii]f you don\'t own a compatible[^<]*wristband[^<]*</li>\s*', '', html)
+
+    # Remove "Quick apply — 3 questions" entire section
+    # This section starts with an h3 containing "Quick apply" and goes to the end of the content
+    html = re.sub(
+        r'<h3>[^<]*[Qq]uick [Aa]pply[^<]*</h3>.*',
+        '', html, flags=re.DOTALL
+    )
+
+    # Remove standalone "dedicated contact person" in comma-separated lists
+    html = re.sub(r',?\s*dedicated contact person', '', html, flags=re.IGNORECASE)
+    html = re.sub(r'dedicated contact person,?\s*', '', html, flags=re.IGNORECASE)
+
+    # Remove standalone "biometric wristband" in comma-separated lists  
+    html = re.sub(r',?\s*biometric wristband', '', html, flags=re.IGNORECASE)
+    html = re.sub(r'biometric wristband,?\s*', '', html, flags=re.IGNORECASE)
+
+    # Clean up any double commas or trailing commas from list removals
+    html = re.sub(r',\s*,', ',', html)
+    html = re.sub(r',\s*</', '</', html)
+
+    # Remove "and a wristband" / "and a biometric wristband" from prose
+    html = re.sub(r' and a (?:biometric )?wristband', '', html, flags=re.IGNORECASE)
+
+    return html
+
+
+# ──────────────────────────────────────────────
 # HTML TEMPLATE
 # ──────────────────────────────────────────────
 
@@ -347,8 +391,34 @@ def generate_page_html(job: dict, country_code: str, description_html: str) -> s
         h_min = round(job["hourly_min"] * multiplier)
         h_max = round(job["hourly_max"] * multiplier)
         pay_display = f"{currency_symbol}{h_min}–{currency_symbol}{h_max} per recorded hour"
+        # Monthly estimate (assume 4hrs/day × 20 days)
+        m_min = h_min * 4 * 20
+        m_max = h_max * 4 * 20
+        monthly_display = f"{currency_symbol}{m_min:,}–{currency_symbol}{m_max:,}/month"
     else:
         pay_display = job["pay_range"]
+        monthly_display = ""
+
+    # Apply URL with profession + country params
+    slug = job["slug"]
+    apply_url = f"{APPLY_URL}?profession={slug}&country={country_code}"
+
+    # Email subject line
+    email_subject = f"Observer Application — {job['profession']} — {country['name']}"
+    email_subject = email_subject.replace(" ", "%20").replace("—", "%E2%80%94")
+
+    # Paused banner
+    paused_banner = ""
+    if job.get("status") == "Paused":
+        paused_banner = (
+            '<div class="paused-banner">'
+            '<strong>We\'ve paused hiring for this role.</strong> '
+            'Leave your details below and we\'ll notify you when it reopens.'
+            '</div>'
+        )
+
+    # Filter friction content from description
+    description_html = _filter_friction_content(description_html)
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -399,7 +469,7 @@ def generate_page_html(job: dict, country_code: str, description_html: str) -> s
             align-items: center;
             justify-content: space-between;
         }}
-        .logo {{ height: 28px; border-radius: 6px; }}
+        .logo {{ height: 44px; border-radius: 6px; }}
         .header-nav {{ display: flex; align-items: center; gap: 1.5rem; }}
         .header-nav a {{
             color: var(--text-muted);
@@ -446,7 +516,12 @@ def generate_page_html(job: dict, country_code: str, description_html: str) -> s
             border-radius: 100px;
             font-size: 1rem;
             font-weight: 600;
-            margin: 1rem 0 1.5rem;
+            margin: 1rem 0 0.25rem;
+        }}
+        .pay-monthly {{
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            margin-bottom: 1.5rem;
         }}
         .eu-badge {{
             background: #eef3ff;
@@ -519,6 +594,40 @@ def generate_page_html(job: dict, country_code: str, description_html: str) -> s
             color: var(--text-light);
             margin-top: 0.75rem;
         }}
+        .apply-divider {{
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin: 1.25rem 0;
+            color: var(--text-light);
+            font-size: 0.85rem;
+        }}
+        .apply-divider::before, .apply-divider::after {{
+            content: "";
+            flex: 1;
+            border-top: 1px solid var(--border);
+        }}
+        .email-apply {{
+            font-size: 0.95rem;
+            color: var(--text-muted);
+        }}
+        .email-apply a {{
+            color: var(--text);
+            font-weight: 600;
+            text-decoration: none;
+            border-bottom: 1px solid var(--border);
+        }}
+        .email-apply a:hover {{ border-color: var(--accent); }}
+        .paused-banner {{
+            background: #fef3cd;
+            border: 1px solid #f0d78c;
+            border-radius: var(--radius);
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 2rem;
+            color: #856404;
+            font-size: 0.95rem;
+        }}
+        .paused-banner strong {{ color: #664d03; }}
         .footer {{
             background: var(--bg-dark);
             padding: 3rem 2rem;
@@ -571,16 +680,22 @@ def generate_page_html(job: dict, country_code: str, description_html: str) -> s
         <span class="country-tag">📍 {country['name']}</span>
         <h1>{job['title']}</h1>
         <div class="pay-badge">{pay_display}</div>
+        <div class="pay-monthly">{monthly_display} on top of your salary</div>
 
         {eu_badge}
+
+        {paused_banner}
 
         <div class="job-content">
             {description_html}
         </div>
 
         <div class="apply-cta">
-            <a href="{APPLY_URL}" class="apply-btn">Apply Now</a>
-            <p class="apply-note">Takes ~3 minutes. No login required.</p>
+            <a href="{apply_url}" class="apply-btn">Apply Now</a>
+            <p class="apply-note">Takes ~1 minute. No login required.</p>
+            <div class="apply-divider">or</div>
+            <p class="email-apply">Send your CV and a short motivation to<br>
+            <a href="mailto:{OBSERVER_EMAIL}?subject={email_subject}">{OBSERVER_EMAIL}</a></p>
         </div>
     </main>
 
@@ -674,7 +789,7 @@ def generate_landing_page(jobs):
             align-items: center;
             justify-content: space-between;
         }}
-        .logo {{ height: 28px; border-radius: 6px; }}
+        .logo {{ height: 44px; border-radius: 6px; }}
         .header-nav {{ display: flex; align-items: center; gap: 1.5rem; }}
         .header-nav a {{
             color: var(--text-muted);
@@ -1026,7 +1141,7 @@ def main():
         if job:
             jobs.append(job)
 
-    print(f"   {len(jobs)} posts with status '{PUBLISH_STATUS}'")
+    print(f"   {len(jobs)} publishable posts (Ready + Paused)")
 
     if not jobs:
         print("⚠️  No publishable jobs found. Check PUBLISH_STATUS setting.")
