@@ -83,7 +83,7 @@
             align-items: center;
             justify-content: space-between;
         }
-        .logo { height: 28px; border-radius: 6px; }
+        .logo { height: 44px; border-radius: 6px; }
         .header-nav { display: flex; align-items: center; gap: 1.5rem; }
         .header-nav a {
             color: var(--text-muted);
@@ -130,7 +130,12 @@
             border-radius: 100px;
             font-size: 1rem;
             font-weight: 600;
-            margin: 1rem 0 1.5rem;
+            margin: 1rem 0 0.25rem;
+        }
+        .pay-monthly {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            margin-bottom: 1.5rem;
         }
         .eu-badge {
             background: #eef3ff;
@@ -203,6 +208,40 @@
             color: var(--text-light);
             margin-top: 0.75rem;
         }
+        .apply-divider {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin: 1.25rem 0;
+            color: var(--text-light);
+            font-size: 0.85rem;
+        }
+        .apply-divider::before, .apply-divider::after {
+            content: "";
+            flex: 1;
+            border-top: 1px solid var(--border);
+        }
+        .email-apply {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+        }
+        .email-apply a {
+            color: var(--text);
+            font-weight: 600;
+            text-decoration: none;
+            border-bottom: 1px solid var(--border);
+        }
+        .email-apply a:hover { border-color: var(--accent); }
+        .paused-banner {
+            background: #fef3cd;
+            border: 1px solid #f0d78c;
+            border-radius: var(--radius);
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 2rem;
+            color: #856404;
+            font-size: 0.95rem;
+        }
+        .paused-banner strong { color: #664d03; }
         .footer {
             background: var(--bg-dark);
             padding: 3rem 2rem;
@@ -241,7 +280,7 @@
         <nav class="header-nav">
             <a href="https://jobs.aisthis.com/">Positions</a>
             <a href="https://www.aisthis.com/observers">Observers</a>
-            <a href="https://www.aisthis.com/observers" class="nav-cta">Apply</a>
+            <a href="https://observer.aisthis.com/apply" class="nav-cta">Apply</a>
         </nav>
     </header>
 
@@ -255,6 +294,9 @@
         <span class="country-tag">📍 United States</span>
         <h1>Rail Freight Operative — Keeping Cargo on Track</h1>
         <div class="pay-badge">$22–$30 per recorded hour</div>
+        <div class="pay-monthly">$1,760–$2,400/month on top of your salary</div>
+
+        
 
         
 
@@ -263,11 +305,11 @@
 <hr>
 <h2>Rail Freight Operative — Keeping Cargo on Track</h2>
 <p><strong>Shunting wagons, loading intermodal, managing rail cargo — your expertise keeps freight moving. Now you can get paid for it.</strong></p>
-<p>The Observer Programme pays rail freight operatives to record their working day using lightweight smart glasses and a wristband.</p>
+<p>The Observer Programme pays rail freight operatives to record their working day using lightweight smart glasses.</p>
 <hr>
 <h3>How it works</h3>
 <ul>
-<li>Wear smart glasses and a wristband during your shift</li>
+<li>Wear smart glasses during your shift</li>
 <li>Record sessions from 30 minutes up</li>
 <li>Spend a few minutes after each session confirming what tasks you did</li>
 <li>Get paid per recorded minute</li>
@@ -293,26 +335,21 @@
 <ul>
 <li>Smart glasses — shipped to you, pre-configured</li>
 <li>Full onboarding (~30 minutes)</li>
-<li>Dedicated contact person</li>
-<li>Biometric wristband if you don't own a compatible fitness tracker</li>
 </ul>
 <hr>
 <h3>About the Observer Programme</h3>
 <p>The Observer Programme by Aisthis works with professionals across 100+ trades to document how skilled work actually happens.</p>
 <p>Applications are reviewed with the help of AI. We'll be in touch if there's a match.</p>
 <hr>
-<h3>Quick apply — 3 questions</h3>
-<ol>
-<li>What's your rail freight role?</li>
-<li>How many years of experience do you have?</li>
-<li>Are you currently working in rail freight?</li>
-</ol>
-<p><strong>Your expertise is valuable. Find out what it's worth.</strong></p>
+
         </div>
 
         <div class="apply-cta">
-            <a href="https://www.aisthis.com/observers" class="apply-btn">Apply Now</a>
-            <p class="apply-note">Takes ~3 minutes. No login required.</p>
+            <a href="https://observer.aisthis.com/apply?profession=rail-freight-operative&country=US" class="apply-btn">Apply Now</a>
+            <p class="apply-note">Takes ~1 minute. No login required.</p>
+            <div class="apply-divider">or</div>
+            <p class="email-apply">Send your CV and a short motivation to<br>
+            <a href="mailto:observer.jobs@aisthis.com?subject=Observer%20Application%20%E2%80%94%20Rail%20Freight%20Operative%20%E2%80%94%20United%20States">observer.jobs@aisthis.com</a></p>
         </div>
     </main>
 
