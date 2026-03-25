@@ -64,7 +64,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-2-DE</id>
     <url>https://jobs.aisthis.com/de/scrub-nurse/</url>
@@ -129,7 +129,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-2-FR</id>
     <url>https://jobs.aisthis.com/fr/scrub-nurse/</url>
@@ -194,7 +194,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-2-BE</id>
     <url>https://jobs.aisthis.com/be/scrub-nurse/</url>
@@ -259,7 +259,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-2-UK</id>
     <url>https://jobs.aisthis.com/uk/scrub-nurse/</url>
@@ -324,7 +324,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-2-US</id>
     <url>https://jobs.aisthis.com/us/scrub-nurse/</url>
@@ -389,7 +389,7 @@
     <salary_min>59.4</salary_min>
     <salary_max>91.8</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-4-NL</id>
     <url>https://jobs.aisthis.com/nl/welder/</url>
@@ -454,7 +454,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-4-DE</id>
     <url>https://jobs.aisthis.com/de/welder/</url>
@@ -519,7 +519,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-4-FR</id>
     <url>https://jobs.aisthis.com/fr/welder/</url>
@@ -584,7 +584,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-4-BE</id>
     <url>https://jobs.aisthis.com/be/welder/</url>
@@ -649,7 +649,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-4-UK</id>
     <url>https://jobs.aisthis.com/uk/welder/</url>
@@ -714,7 +714,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-4-US</id>
     <url>https://jobs.aisthis.com/us/welder/</url>
@@ -779,7 +779,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-5-NL</id>
     <url>https://jobs.aisthis.com/nl/chef/</url>
@@ -842,7 +842,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-5-DE</id>
     <url>https://jobs.aisthis.com/de/chef/</url>
@@ -905,7 +905,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-5-FR</id>
     <url>https://jobs.aisthis.com/fr/chef/</url>
@@ -968,7 +968,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-5-BE</id>
     <url>https://jobs.aisthis.com/be/chef/</url>
@@ -1031,7 +1031,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-5-UK</id>
     <url>https://jobs.aisthis.com/uk/chef/</url>
@@ -1094,7 +1094,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-5-US</id>
     <url>https://jobs.aisthis.com/us/chef/</url>
@@ -1157,7 +1157,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-3-NL</id>
     <url>https://jobs.aisthis.com/nl/warehouse-picker/</url>
@@ -1220,7 +1220,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-3-DE</id>
     <url>https://jobs.aisthis.com/de/warehouse-picker/</url>
@@ -1283,7 +1283,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-3-FR</id>
     <url>https://jobs.aisthis.com/fr/warehouse-picker/</url>
@@ -1346,7 +1346,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-3-BE</id>
     <url>https://jobs.aisthis.com/be/warehouse-picker/</url>
@@ -1409,7 +1409,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-3-UK</id>
     <url>https://jobs.aisthis.com/uk/warehouse-picker/</url>
@@ -1472,7 +1472,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-3-US</id>
     <url>https://jobs.aisthis.com/us/warehouse-picker/</url>
@@ -1535,7 +1535,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-1-NL</id>
     <url>https://jobs.aisthis.com/nl/electrician/</url>
@@ -1600,7 +1600,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-1-DE</id>
     <url>https://jobs.aisthis.com/de/electrician/</url>
@@ -1665,7 +1665,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-1-FR</id>
     <url>https://jobs.aisthis.com/fr/electrician/</url>
@@ -1730,7 +1730,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-1-BE</id>
     <url>https://jobs.aisthis.com/be/electrician/</url>
@@ -1795,7 +1795,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-1-UK</id>
     <url>https://jobs.aisthis.com/uk/electrician/</url>
@@ -1860,7 +1860,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-1-US</id>
     <url>https://jobs.aisthis.com/us/electrician/</url>
@@ -1925,7 +1925,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-63-NL</id>
     <url>https://jobs.aisthis.com/nl/hotel-housekeeper/</url>
@@ -1984,7 +1984,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-63-DE</id>
     <url>https://jobs.aisthis.com/de/hotel-housekeeper/</url>
@@ -2043,7 +2043,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-63-FR</id>
     <url>https://jobs.aisthis.com/fr/hotel-housekeeper/</url>
@@ -2102,7 +2102,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-63-BE</id>
     <url>https://jobs.aisthis.com/be/hotel-housekeeper/</url>
@@ -2161,7 +2161,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-63-UK</id>
     <url>https://jobs.aisthis.com/uk/hotel-housekeeper/</url>
@@ -2220,7 +2220,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-63-US</id>
     <url>https://jobs.aisthis.com/us/hotel-housekeeper/</url>
@@ -2279,7 +2279,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-27-NL</id>
     <url>https://jobs.aisthis.com/nl/server/</url>
@@ -2342,7 +2342,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-27-DE</id>
     <url>https://jobs.aisthis.com/de/server/</url>
@@ -2405,7 +2405,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-27-FR</id>
     <url>https://jobs.aisthis.com/fr/server/</url>
@@ -2468,7 +2468,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-27-BE</id>
     <url>https://jobs.aisthis.com/be/server/</url>
@@ -2531,7 +2531,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-27-UK</id>
     <url>https://jobs.aisthis.com/uk/server/</url>
@@ -2594,7 +2594,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-27-US</id>
     <url>https://jobs.aisthis.com/us/server/</url>
@@ -2657,7 +2657,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-34-NL</id>
     <url>https://jobs.aisthis.com/nl/road-worker/</url>
@@ -2719,7 +2719,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-34-DE</id>
     <url>https://jobs.aisthis.com/de/road-worker/</url>
@@ -2781,7 +2781,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-34-FR</id>
     <url>https://jobs.aisthis.com/fr/road-worker/</url>
@@ -2843,7 +2843,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-34-BE</id>
     <url>https://jobs.aisthis.com/be/road-worker/</url>
@@ -2905,7 +2905,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-34-UK</id>
     <url>https://jobs.aisthis.com/uk/road-worker/</url>
@@ -2967,7 +2967,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-34-US</id>
     <url>https://jobs.aisthis.com/us/road-worker/</url>
@@ -3029,7 +3029,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-81-NL</id>
     <url>https://jobs.aisthis.com/nl/livestock-farmer/</url>
@@ -3080,7 +3080,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-81-DE</id>
     <url>https://jobs.aisthis.com/de/livestock-farmer/</url>
@@ -3131,7 +3131,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-81-FR</id>
     <url>https://jobs.aisthis.com/fr/livestock-farmer/</url>
@@ -3182,7 +3182,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-81-BE</id>
     <url>https://jobs.aisthis.com/be/livestock-farmer/</url>
@@ -3233,7 +3233,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-81-UK</id>
     <url>https://jobs.aisthis.com/uk/livestock-farmer/</url>
@@ -3284,7 +3284,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-81-US</id>
     <url>https://jobs.aisthis.com/us/livestock-farmer/</url>
@@ -3335,7 +3335,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-38-NL</id>
     <url>https://jobs.aisthis.com/nl/building-inspector/</url>
@@ -3397,7 +3397,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-38-DE</id>
     <url>https://jobs.aisthis.com/de/building-inspector/</url>
@@ -3459,7 +3459,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-38-FR</id>
     <url>https://jobs.aisthis.com/fr/building-inspector/</url>
@@ -3521,7 +3521,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-38-BE</id>
     <url>https://jobs.aisthis.com/be/building-inspector/</url>
@@ -3583,7 +3583,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-38-UK</id>
     <url>https://jobs.aisthis.com/uk/building-inspector/</url>
@@ -3645,7 +3645,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-38-US</id>
     <url>https://jobs.aisthis.com/us/building-inspector/</url>
@@ -3707,7 +3707,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-30-NL</id>
     <url>https://jobs.aisthis.com/nl/groundworker/</url>
@@ -3769,7 +3769,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-30-DE</id>
     <url>https://jobs.aisthis.com/de/groundworker/</url>
@@ -3831,7 +3831,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-30-FR</id>
     <url>https://jobs.aisthis.com/fr/groundworker/</url>
@@ -3893,7 +3893,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-30-BE</id>
     <url>https://jobs.aisthis.com/be/groundworker/</url>
@@ -3955,7 +3955,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-30-UK</id>
     <url>https://jobs.aisthis.com/uk/groundworker/</url>
@@ -4017,7 +4017,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-30-US</id>
     <url>https://jobs.aisthis.com/us/groundworker/</url>
@@ -4079,7 +4079,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-88-NL</id>
     <url>https://jobs.aisthis.com/nl/social-worker/</url>
@@ -4130,7 +4130,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-88-DE</id>
     <url>https://jobs.aisthis.com/de/social-worker/</url>
@@ -4181,7 +4181,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-88-FR</id>
     <url>https://jobs.aisthis.com/fr/social-worker/</url>
@@ -4232,7 +4232,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-88-BE</id>
     <url>https://jobs.aisthis.com/be/social-worker/</url>
@@ -4283,7 +4283,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-88-UK</id>
     <url>https://jobs.aisthis.com/uk/social-worker/</url>
@@ -4334,7 +4334,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-88-US</id>
     <url>https://jobs.aisthis.com/us/social-worker/</url>
@@ -4385,7 +4385,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-74-NL</id>
     <url>https://jobs.aisthis.com/nl/aircraft-maintenance-engineer/</url>
@@ -4438,7 +4438,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-74-DE</id>
     <url>https://jobs.aisthis.com/de/aircraft-maintenance-engineer/</url>
@@ -4491,7 +4491,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-74-FR</id>
     <url>https://jobs.aisthis.com/fr/aircraft-maintenance-engineer/</url>
@@ -4544,7 +4544,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-74-BE</id>
     <url>https://jobs.aisthis.com/be/aircraft-maintenance-engineer/</url>
@@ -4597,7 +4597,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-74-UK</id>
     <url>https://jobs.aisthis.com/uk/aircraft-maintenance-engineer/</url>
@@ -4650,7 +4650,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-74-US</id>
     <url>https://jobs.aisthis.com/us/aircraft-maintenance-engineer/</url>
@@ -4703,7 +4703,7 @@
     <salary_min>118.8</salary_min>
     <salary_max>194.4</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-66-NL</id>
     <url>https://jobs.aisthis.com/nl/fishmonger/</url>
@@ -4754,7 +4754,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-66-DE</id>
     <url>https://jobs.aisthis.com/de/fishmonger/</url>
@@ -4805,7 +4805,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-66-FR</id>
     <url>https://jobs.aisthis.com/fr/fishmonger/</url>
@@ -4856,7 +4856,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-66-BE</id>
     <url>https://jobs.aisthis.com/be/fishmonger/</url>
@@ -4907,7 +4907,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-66-UK</id>
     <url>https://jobs.aisthis.com/uk/fishmonger/</url>
@@ -4958,7 +4958,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-66-US</id>
     <url>https://jobs.aisthis.com/us/fishmonger/</url>
@@ -5009,7 +5009,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-83-NL</id>
     <url>https://jobs.aisthis.com/nl/groundskeeper/</url>
@@ -5059,7 +5059,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-83-DE</id>
     <url>https://jobs.aisthis.com/de/groundskeeper/</url>
@@ -5109,7 +5109,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-83-FR</id>
     <url>https://jobs.aisthis.com/fr/groundskeeper/</url>
@@ -5159,7 +5159,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-83-BE</id>
     <url>https://jobs.aisthis.com/be/groundskeeper/</url>
@@ -5209,7 +5209,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-83-UK</id>
     <url>https://jobs.aisthis.com/uk/groundskeeper/</url>
@@ -5259,7 +5259,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-83-US</id>
     <url>https://jobs.aisthis.com/us/groundskeeper/</url>
@@ -5309,7 +5309,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-54-NL</id>
     <url>https://jobs.aisthis.com/nl/rail-freight-operative/</url>
@@ -5371,7 +5371,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-54-DE</id>
     <url>https://jobs.aisthis.com/de/rail-freight-operative/</url>
@@ -5433,7 +5433,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-54-FR</id>
     <url>https://jobs.aisthis.com/fr/rail-freight-operative/</url>
@@ -5495,7 +5495,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-54-BE</id>
     <url>https://jobs.aisthis.com/be/rail-freight-operative/</url>
@@ -5557,7 +5557,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-54-UK</id>
     <url>https://jobs.aisthis.com/uk/rail-freight-operative/</url>
@@ -5619,7 +5619,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-54-US</id>
     <url>https://jobs.aisthis.com/us/rail-freight-operative/</url>
@@ -5681,7 +5681,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-79-NL</id>
     <url>https://jobs.aisthis.com/nl/cobbler/</url>
@@ -5731,7 +5731,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-79-DE</id>
     <url>https://jobs.aisthis.com/de/cobbler/</url>
@@ -5781,7 +5781,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-79-FR</id>
     <url>https://jobs.aisthis.com/fr/cobbler/</url>
@@ -5831,7 +5831,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-79-BE</id>
     <url>https://jobs.aisthis.com/be/cobbler/</url>
@@ -5881,7 +5881,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-79-UK</id>
     <url>https://jobs.aisthis.com/uk/cobbler/</url>
@@ -5931,7 +5931,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-79-US</id>
     <url>https://jobs.aisthis.com/us/cobbler/</url>
@@ -5981,7 +5981,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-72-NL</id>
     <url>https://jobs.aisthis.com/nl/security-guard/</url>
@@ -6032,7 +6032,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-72-DE</id>
     <url>https://jobs.aisthis.com/de/security-guard/</url>
@@ -6083,7 +6083,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-72-FR</id>
     <url>https://jobs.aisthis.com/fr/security-guard/</url>
@@ -6134,7 +6134,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-72-BE</id>
     <url>https://jobs.aisthis.com/be/security-guard/</url>
@@ -6185,7 +6185,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-72-UK</id>
     <url>https://jobs.aisthis.com/uk/security-guard/</url>
@@ -6236,7 +6236,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-72-US</id>
     <url>https://jobs.aisthis.com/us/security-guard/</url>
@@ -6287,7 +6287,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-24-NL</id>
     <url>https://jobs.aisthis.com/nl/machine-maintenance-engineer/</url>
@@ -6351,7 +6351,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-24-DE</id>
     <url>https://jobs.aisthis.com/de/machine-maintenance-engineer/</url>
@@ -6415,7 +6415,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-24-FR</id>
     <url>https://jobs.aisthis.com/fr/machine-maintenance-engineer/</url>
@@ -6479,7 +6479,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-24-BE</id>
     <url>https://jobs.aisthis.com/be/machine-maintenance-engineer/</url>
@@ -6543,7 +6543,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-24-UK</id>
     <url>https://jobs.aisthis.com/uk/machine-maintenance-engineer/</url>
@@ -6607,7 +6607,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-24-US</id>
     <url>https://jobs.aisthis.com/us/machine-maintenance-engineer/</url>
@@ -6671,7 +6671,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-6-NL</id>
     <url>https://jobs.aisthis.com/nl/plumber/</url>
@@ -6735,7 +6735,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-6-DE</id>
     <url>https://jobs.aisthis.com/de/plumber/</url>
@@ -6799,7 +6799,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-6-FR</id>
     <url>https://jobs.aisthis.com/fr/plumber/</url>
@@ -6863,7 +6863,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-6-BE</id>
     <url>https://jobs.aisthis.com/be/plumber/</url>
@@ -6927,7 +6927,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-6-UK</id>
     <url>https://jobs.aisthis.com/uk/plumber/</url>
@@ -6991,7 +6991,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-6-US</id>
     <url>https://jobs.aisthis.com/us/plumber/</url>
@@ -7055,7 +7055,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-12-NL</id>
     <url>https://jobs.aisthis.com/nl/glazier/</url>
@@ -7119,7 +7119,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-12-DE</id>
     <url>https://jobs.aisthis.com/de/glazier/</url>
@@ -7183,7 +7183,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-12-FR</id>
     <url>https://jobs.aisthis.com/fr/glazier/</url>
@@ -7247,7 +7247,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-12-BE</id>
     <url>https://jobs.aisthis.com/be/glazier/</url>
@@ -7311,7 +7311,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-12-UK</id>
     <url>https://jobs.aisthis.com/uk/glazier/</url>
@@ -7375,7 +7375,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-12-US</id>
     <url>https://jobs.aisthis.com/us/glazier/</url>
@@ -7439,7 +7439,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-76-NL</id>
     <url>https://jobs.aisthis.com/nl/refrigeration-and-air-conditioning-engineer/</url>
@@ -7490,7 +7490,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-76-DE</id>
     <url>https://jobs.aisthis.com/de/refrigeration-and-air-conditioning-engineer/</url>
@@ -7541,7 +7541,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-76-FR</id>
     <url>https://jobs.aisthis.com/fr/refrigeration-and-air-conditioning-engineer/</url>
@@ -7592,7 +7592,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-76-BE</id>
     <url>https://jobs.aisthis.com/be/refrigeration-and-air-conditioning-engineer/</url>
@@ -7643,7 +7643,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-76-UK</id>
     <url>https://jobs.aisthis.com/uk/refrigeration-and-air-conditioning-engineer/</url>
@@ -7694,7 +7694,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-76-US</id>
     <url>https://jobs.aisthis.com/us/refrigeration-and-air-conditioning-engineer/</url>
@@ -7745,7 +7745,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-37-NL</id>
     <url>https://jobs.aisthis.com/nl/fire-protection-engineer/</url>
@@ -7807,7 +7807,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-37-DE</id>
     <url>https://jobs.aisthis.com/de/fire-protection-engineer/</url>
@@ -7869,7 +7869,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-37-FR</id>
     <url>https://jobs.aisthis.com/fr/fire-protection-engineer/</url>
@@ -7931,7 +7931,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-37-BE</id>
     <url>https://jobs.aisthis.com/be/fire-protection-engineer/</url>
@@ -7993,7 +7993,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-37-UK</id>
     <url>https://jobs.aisthis.com/uk/fire-protection-engineer/</url>
@@ -8055,7 +8055,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-37-US</id>
     <url>https://jobs.aisthis.com/us/fire-protection-engineer/</url>
@@ -8117,7 +8117,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-62-NL</id>
     <url>https://jobs.aisthis.com/nl/barista/</url>
@@ -8176,7 +8176,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-62-DE</id>
     <url>https://jobs.aisthis.com/de/barista/</url>
@@ -8235,7 +8235,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-62-FR</id>
     <url>https://jobs.aisthis.com/fr/barista/</url>
@@ -8294,7 +8294,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-62-BE</id>
     <url>https://jobs.aisthis.com/be/barista/</url>
@@ -8353,7 +8353,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-62-UK</id>
     <url>https://jobs.aisthis.com/uk/barista/</url>
@@ -8412,7 +8412,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-62-US</id>
     <url>https://jobs.aisthis.com/us/barista/</url>
@@ -8471,7 +8471,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-8-NL</id>
     <url>https://jobs.aisthis.com/nl/scaffolder/</url>
@@ -8536,7 +8536,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-8-DE</id>
     <url>https://jobs.aisthis.com/de/scaffolder/</url>
@@ -8601,7 +8601,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-8-FR</id>
     <url>https://jobs.aisthis.com/fr/scaffolder/</url>
@@ -8666,7 +8666,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-8-BE</id>
     <url>https://jobs.aisthis.com/be/scaffolder/</url>
@@ -8731,7 +8731,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-8-UK</id>
     <url>https://jobs.aisthis.com/uk/scaffolder/</url>
@@ -8796,7 +8796,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-8-US</id>
     <url>https://jobs.aisthis.com/us/scaffolder/</url>
@@ -8861,7 +8861,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-91-NL</id>
     <url>https://jobs.aisthis.com/nl/prosthetics/</url>
@@ -8911,7 +8911,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-91-DE</id>
     <url>https://jobs.aisthis.com/de/prosthetics/</url>
@@ -8961,7 +8961,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-91-FR</id>
     <url>https://jobs.aisthis.com/fr/prosthetics/</url>
@@ -9011,7 +9011,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-91-BE</id>
     <url>https://jobs.aisthis.com/be/prosthetics/</url>
@@ -9061,7 +9061,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-91-UK</id>
     <url>https://jobs.aisthis.com/uk/prosthetics/</url>
@@ -9111,7 +9111,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-91-US</id>
     <url>https://jobs.aisthis.com/us/prosthetics/</url>
@@ -9161,7 +9161,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-70-NL</id>
     <url>https://jobs.aisthis.com/nl/search-and-rescue-mountain/</url>
@@ -9211,7 +9211,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-70-DE</id>
     <url>https://jobs.aisthis.com/de/search-and-rescue-mountain/</url>
@@ -9261,7 +9261,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-70-FR</id>
     <url>https://jobs.aisthis.com/fr/search-and-rescue-mountain/</url>
@@ -9311,7 +9311,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-70-BE</id>
     <url>https://jobs.aisthis.com/be/search-and-rescue-mountain/</url>
@@ -9361,7 +9361,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-70-UK</id>
     <url>https://jobs.aisthis.com/uk/search-and-rescue-mountain/</url>
@@ -9411,7 +9411,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-70-US</id>
     <url>https://jobs.aisthis.com/us/search-and-rescue-mountain/</url>
@@ -9461,7 +9461,7 @@
     <salary_min>59.4</salary_min>
     <salary_max>91.8</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-11-NL</id>
     <url>https://jobs.aisthis.com/nl/hvac-engineer/</url>
@@ -9525,7 +9525,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-11-DE</id>
     <url>https://jobs.aisthis.com/de/hvac-engineer/</url>
@@ -9589,7 +9589,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-11-FR</id>
     <url>https://jobs.aisthis.com/fr/hvac-engineer/</url>
@@ -9653,7 +9653,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-11-BE</id>
     <url>https://jobs.aisthis.com/be/hvac-engineer/</url>
@@ -9717,7 +9717,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-11-UK</id>
     <url>https://jobs.aisthis.com/uk/hvac-engineer/</url>
@@ -9781,7 +9781,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-11-US</id>
     <url>https://jobs.aisthis.com/us/hvac-engineer/</url>
@@ -9845,7 +9845,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-49-NL</id>
     <url>https://jobs.aisthis.com/nl/freight-handler/</url>
@@ -9907,7 +9907,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-49-DE</id>
     <url>https://jobs.aisthis.com/de/freight-handler/</url>
@@ -9969,7 +9969,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-49-FR</id>
     <url>https://jobs.aisthis.com/fr/freight-handler/</url>
@@ -10031,7 +10031,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-49-BE</id>
     <url>https://jobs.aisthis.com/be/freight-handler/</url>
@@ -10093,7 +10093,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-49-UK</id>
     <url>https://jobs.aisthis.com/uk/freight-handler/</url>
@@ -10155,7 +10155,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-49-US</id>
     <url>https://jobs.aisthis.com/us/freight-handler/</url>
@@ -10217,7 +10217,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-50-NL</id>
     <url>https://jobs.aisthis.com/nl/postal/</url>
@@ -10278,7 +10278,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-50-DE</id>
     <url>https://jobs.aisthis.com/de/postal/</url>
@@ -10339,7 +10339,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-50-FR</id>
     <url>https://jobs.aisthis.com/fr/postal/</url>
@@ -10400,7 +10400,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-50-BE</id>
     <url>https://jobs.aisthis.com/be/postal/</url>
@@ -10461,7 +10461,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-50-UK</id>
     <url>https://jobs.aisthis.com/uk/postal/</url>
@@ -10522,7 +10522,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-50-US</id>
     <url>https://jobs.aisthis.com/us/postal/</url>
@@ -10583,7 +10583,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-53-NL</id>
     <url>https://jobs.aisthis.com/nl/removals-operative/</url>
@@ -10644,7 +10644,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-53-DE</id>
     <url>https://jobs.aisthis.com/de/removals-operative/</url>
@@ -10705,7 +10705,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-53-FR</id>
     <url>https://jobs.aisthis.com/fr/removals-operative/</url>
@@ -10766,7 +10766,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-53-BE</id>
     <url>https://jobs.aisthis.com/be/removals-operative/</url>
@@ -10827,7 +10827,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-53-UK</id>
     <url>https://jobs.aisthis.com/uk/removals-operative/</url>
@@ -10888,7 +10888,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-53-US</id>
     <url>https://jobs.aisthis.com/us/removals-operative/</url>
@@ -10949,7 +10949,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-39-NL</id>
     <url>https://jobs.aisthis.com/nl/locksmith/</url>
@@ -11011,7 +11011,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-39-DE</id>
     <url>https://jobs.aisthis.com/de/locksmith/</url>
@@ -11073,7 +11073,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-39-FR</id>
     <url>https://jobs.aisthis.com/fr/locksmith/</url>
@@ -11135,7 +11135,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-39-BE</id>
     <url>https://jobs.aisthis.com/be/locksmith/</url>
@@ -11197,7 +11197,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-39-UK</id>
     <url>https://jobs.aisthis.com/uk/locksmith/</url>
@@ -11259,7 +11259,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-39-US</id>
     <url>https://jobs.aisthis.com/us/locksmith/</url>
@@ -11321,7 +11321,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-14-NL</id>
     <url>https://jobs.aisthis.com/nl/construction-labourer/</url>
@@ -11384,7 +11384,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-14-DE</id>
     <url>https://jobs.aisthis.com/de/construction-labourer/</url>
@@ -11447,7 +11447,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-14-FR</id>
     <url>https://jobs.aisthis.com/fr/construction-labourer/</url>
@@ -11510,7 +11510,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-14-BE</id>
     <url>https://jobs.aisthis.com/be/construction-labourer/</url>
@@ -11573,7 +11573,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-14-UK</id>
     <url>https://jobs.aisthis.com/uk/construction-labourer/</url>
@@ -11636,7 +11636,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-14-US</id>
     <url>https://jobs.aisthis.com/us/construction-labourer/</url>
@@ -11699,7 +11699,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-77-NL</id>
     <url>https://jobs.aisthis.com/nl/gas-engineer/</url>
@@ -11750,7 +11750,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-77-DE</id>
     <url>https://jobs.aisthis.com/de/gas-engineer/</url>
@@ -11801,7 +11801,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-77-FR</id>
     <url>https://jobs.aisthis.com/fr/gas-engineer/</url>
@@ -11852,7 +11852,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-77-BE</id>
     <url>https://jobs.aisthis.com/be/gas-engineer/</url>
@@ -11903,7 +11903,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-77-UK</id>
     <url>https://jobs.aisthis.com/uk/gas-engineer/</url>
@@ -11954,7 +11954,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-77-US</id>
     <url>https://jobs.aisthis.com/us/gas-engineer/</url>
@@ -12005,7 +12005,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-87-NL</id>
     <url>https://jobs.aisthis.com/nl/teaching-assistant/</url>
@@ -12055,7 +12055,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-87-DE</id>
     <url>https://jobs.aisthis.com/de/teaching-assistant/</url>
@@ -12105,7 +12105,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-87-FR</id>
     <url>https://jobs.aisthis.com/fr/teaching-assistant/</url>
@@ -12155,7 +12155,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-87-BE</id>
     <url>https://jobs.aisthis.com/be/teaching-assistant/</url>
@@ -12205,7 +12205,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-87-UK</id>
     <url>https://jobs.aisthis.com/uk/teaching-assistant/</url>
@@ -12255,7 +12255,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-87-US</id>
     <url>https://jobs.aisthis.com/us/teaching-assistant/</url>
@@ -12305,7 +12305,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-42-NL</id>
     <url>https://jobs.aisthis.com/nl/sterile-services-technician/</url>
@@ -12365,7 +12365,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-42-DE</id>
     <url>https://jobs.aisthis.com/de/sterile-services-technician/</url>
@@ -12425,7 +12425,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-42-FR</id>
     <url>https://jobs.aisthis.com/fr/sterile-services-technician/</url>
@@ -12485,7 +12485,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-42-BE</id>
     <url>https://jobs.aisthis.com/be/sterile-services-technician/</url>
@@ -12545,7 +12545,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-42-UK</id>
     <url>https://jobs.aisthis.com/uk/sterile-services-technician/</url>
@@ -12605,7 +12605,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-42-US</id>
     <url>https://jobs.aisthis.com/us/sterile-services-technician/</url>
@@ -12665,7 +12665,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-15-NL</id>
     <url>https://jobs.aisthis.com/nl/floor-layer/</url>
@@ -12729,7 +12729,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-15-DE</id>
     <url>https://jobs.aisthis.com/de/floor-layer/</url>
@@ -12793,7 +12793,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-15-FR</id>
     <url>https://jobs.aisthis.com/fr/floor-layer/</url>
@@ -12857,7 +12857,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-15-BE</id>
     <url>https://jobs.aisthis.com/be/floor-layer/</url>
@@ -12921,7 +12921,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-15-UK</id>
     <url>https://jobs.aisthis.com/uk/floor-layer/</url>
@@ -12985,7 +12985,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-15-US</id>
     <url>https://jobs.aisthis.com/us/floor-layer/</url>
@@ -13049,7 +13049,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-9-NL</id>
     <url>https://jobs.aisthis.com/nl/bricklayer/</url>
@@ -13113,7 +13113,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-9-DE</id>
     <url>https://jobs.aisthis.com/de/bricklayer/</url>
@@ -13177,7 +13177,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-9-FR</id>
     <url>https://jobs.aisthis.com/fr/bricklayer/</url>
@@ -13241,7 +13241,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-9-BE</id>
     <url>https://jobs.aisthis.com/be/bricklayer/</url>
@@ -13305,7 +13305,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-9-UK</id>
     <url>https://jobs.aisthis.com/uk/bricklayer/</url>
@@ -13369,7 +13369,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-9-US</id>
     <url>https://jobs.aisthis.com/us/bricklayer/</url>
@@ -13433,7 +13433,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-22-NL</id>
     <url>https://jobs.aisthis.com/nl/nurse/</url>
@@ -13498,7 +13498,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-22-DE</id>
     <url>https://jobs.aisthis.com/de/nurse/</url>
@@ -13563,7 +13563,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-22-FR</id>
     <url>https://jobs.aisthis.com/fr/nurse/</url>
@@ -13628,7 +13628,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-22-BE</id>
     <url>https://jobs.aisthis.com/be/nurse/</url>
@@ -13693,7 +13693,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-22-UK</id>
     <url>https://jobs.aisthis.com/uk/nurse/</url>
@@ -13758,7 +13758,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-22-US</id>
     <url>https://jobs.aisthis.com/us/nurse/</url>
@@ -13823,7 +13823,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-40-NL</id>
     <url>https://jobs.aisthis.com/nl/operating-department-practitioner/</url>
@@ -13885,7 +13885,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-40-DE</id>
     <url>https://jobs.aisthis.com/de/operating-department-practitioner/</url>
@@ -13947,7 +13947,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-40-FR</id>
     <url>https://jobs.aisthis.com/fr/operating-department-practitioner/</url>
@@ -14009,7 +14009,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-40-BE</id>
     <url>https://jobs.aisthis.com/be/operating-department-practitioner/</url>
@@ -14071,7 +14071,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-40-UK</id>
     <url>https://jobs.aisthis.com/uk/operating-department-practitioner/</url>
@@ -14133,7 +14133,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-40-US</id>
     <url>https://jobs.aisthis.com/us/operating-department-practitioner/</url>
@@ -14195,7 +14195,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-44-NL</id>
     <url>https://jobs.aisthis.com/nl/optometrist/</url>
@@ -14257,7 +14257,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-44-DE</id>
     <url>https://jobs.aisthis.com/de/optometrist/</url>
@@ -14319,7 +14319,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-44-FR</id>
     <url>https://jobs.aisthis.com/fr/optometrist/</url>
@@ -14381,7 +14381,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-44-BE</id>
     <url>https://jobs.aisthis.com/be/optometrist/</url>
@@ -14443,7 +14443,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-44-UK</id>
     <url>https://jobs.aisthis.com/uk/optometrist/</url>
@@ -14505,7 +14505,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-44-US</id>
     <url>https://jobs.aisthis.com/us/optometrist/</url>
@@ -14567,7 +14567,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-29-NL</id>
     <url>https://jobs.aisthis.com/nl/structural-ironworker/</url>
@@ -14630,7 +14630,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-29-DE</id>
     <url>https://jobs.aisthis.com/de/structural-ironworker/</url>
@@ -14693,7 +14693,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-29-FR</id>
     <url>https://jobs.aisthis.com/fr/structural-ironworker/</url>
@@ -14756,7 +14756,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-29-BE</id>
     <url>https://jobs.aisthis.com/be/structural-ironworker/</url>
@@ -14819,7 +14819,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-29-UK</id>
     <url>https://jobs.aisthis.com/uk/structural-ironworker/</url>
@@ -14882,7 +14882,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-29-US</id>
     <url>https://jobs.aisthis.com/us/structural-ironworker/</url>
@@ -14945,7 +14945,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-51-NL</id>
     <url>https://jobs.aisthis.com/nl/cold-chain-operative/</url>
@@ -15006,7 +15006,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-51-DE</id>
     <url>https://jobs.aisthis.com/de/cold-chain-operative/</url>
@@ -15067,7 +15067,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-51-FR</id>
     <url>https://jobs.aisthis.com/fr/cold-chain-operative/</url>
@@ -15128,7 +15128,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-51-BE</id>
     <url>https://jobs.aisthis.com/be/cold-chain-operative/</url>
@@ -15189,7 +15189,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-51-UK</id>
     <url>https://jobs.aisthis.com/uk/cold-chain-operative/</url>
@@ -15250,7 +15250,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-51-US</id>
     <url>https://jobs.aisthis.com/us/cold-chain-operative/</url>
@@ -15311,7 +15311,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-41-NL</id>
     <url>https://jobs.aisthis.com/nl/pharmacy-technician/</url>
@@ -15373,7 +15373,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-41-DE</id>
     <url>https://jobs.aisthis.com/de/pharmacy-technician/</url>
@@ -15435,7 +15435,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-41-FR</id>
     <url>https://jobs.aisthis.com/fr/pharmacy-technician/</url>
@@ -15497,7 +15497,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-41-BE</id>
     <url>https://jobs.aisthis.com/be/pharmacy-technician/</url>
@@ -15559,7 +15559,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-41-UK</id>
     <url>https://jobs.aisthis.com/uk/pharmacy-technician/</url>
@@ -15621,7 +15621,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-41-US</id>
     <url>https://jobs.aisthis.com/us/pharmacy-technician/</url>
@@ -15683,7 +15683,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-58-NL</id>
     <url>https://jobs.aisthis.com/nl/injection-moulding/</url>
@@ -15744,7 +15744,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-58-DE</id>
     <url>https://jobs.aisthis.com/de/injection-moulding/</url>
@@ -15805,7 +15805,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-58-FR</id>
     <url>https://jobs.aisthis.com/fr/injection-moulding/</url>
@@ -15866,7 +15866,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-58-BE</id>
     <url>https://jobs.aisthis.com/be/injection-moulding/</url>
@@ -15927,7 +15927,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-58-UK</id>
     <url>https://jobs.aisthis.com/uk/injection-moulding/</url>
@@ -15988,7 +15988,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-58-US</id>
     <url>https://jobs.aisthis.com/us/injection-moulding/</url>
@@ -16049,7 +16049,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-89-NL</id>
     <url>https://jobs.aisthis.com/nl/mortuary-technician/</url>
@@ -16099,7 +16099,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-89-DE</id>
     <url>https://jobs.aisthis.com/de/mortuary-technician/</url>
@@ -16149,7 +16149,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-89-FR</id>
     <url>https://jobs.aisthis.com/fr/mortuary-technician/</url>
@@ -16199,7 +16199,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-89-BE</id>
     <url>https://jobs.aisthis.com/be/mortuary-technician/</url>
@@ -16249,7 +16249,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-89-UK</id>
     <url>https://jobs.aisthis.com/uk/mortuary-technician/</url>
@@ -16299,7 +16299,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-89-US</id>
     <url>https://jobs.aisthis.com/us/mortuary-technician/</url>
@@ -16349,7 +16349,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-96-NL</id>
     <url>https://jobs.aisthis.com/nl/explosive-ordnance-disposal/</url>
@@ -16399,7 +16399,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-96-DE</id>
     <url>https://jobs.aisthis.com/de/explosive-ordnance-disposal/</url>
@@ -16449,7 +16449,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-96-FR</id>
     <url>https://jobs.aisthis.com/fr/explosive-ordnance-disposal/</url>
@@ -16499,7 +16499,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-96-BE</id>
     <url>https://jobs.aisthis.com/be/explosive-ordnance-disposal/</url>
@@ -16549,7 +16549,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-96-UK</id>
     <url>https://jobs.aisthis.com/uk/explosive-ordnance-disposal/</url>
@@ -16599,7 +16599,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-96-US</id>
     <url>https://jobs.aisthis.com/us/explosive-ordnance-disposal/</url>
@@ -16649,7 +16649,7 @@
     <salary_min>118.8</salary_min>
     <salary_max>194.4</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-46-NL</id>
     <url>https://jobs.aisthis.com/nl/forklift-operator/</url>
@@ -16710,7 +16710,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-46-DE</id>
     <url>https://jobs.aisthis.com/de/forklift-operator/</url>
@@ -16771,7 +16771,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-46-FR</id>
     <url>https://jobs.aisthis.com/fr/forklift-operator/</url>
@@ -16832,7 +16832,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-46-BE</id>
     <url>https://jobs.aisthis.com/be/forklift-operator/</url>
@@ -16893,7 +16893,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-46-UK</id>
     <url>https://jobs.aisthis.com/uk/forklift-operator/</url>
@@ -16954,7 +16954,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-46-US</id>
     <url>https://jobs.aisthis.com/us/forklift-operator/</url>
@@ -17015,7 +17015,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-55-NL</id>
     <url>https://jobs.aisthis.com/nl/automotive-assembly-worker/</url>
@@ -17076,7 +17076,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-55-DE</id>
     <url>https://jobs.aisthis.com/de/automotive-assembly-worker/</url>
@@ -17137,7 +17137,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-55-FR</id>
     <url>https://jobs.aisthis.com/fr/automotive-assembly-worker/</url>
@@ -17198,7 +17198,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-55-BE</id>
     <url>https://jobs.aisthis.com/be/automotive-assembly-worker/</url>
@@ -17259,7 +17259,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-55-UK</id>
     <url>https://jobs.aisthis.com/uk/automotive-assembly-worker/</url>
@@ -17320,7 +17320,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-55-US</id>
     <url>https://jobs.aisthis.com/us/automotive-assembly-worker/</url>
@@ -17381,7 +17381,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-23-NL</id>
     <url>https://jobs.aisthis.com/nl/cnc-machinist/</url>
@@ -17445,7 +17445,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-23-DE</id>
     <url>https://jobs.aisthis.com/de/cnc-machinist/</url>
@@ -17509,7 +17509,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-23-FR</id>
     <url>https://jobs.aisthis.com/fr/cnc-machinist/</url>
@@ -17573,7 +17573,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-23-BE</id>
     <url>https://jobs.aisthis.com/be/cnc-machinist/</url>
@@ -17637,7 +17637,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-23-UK</id>
     <url>https://jobs.aisthis.com/uk/cnc-machinist/</url>
@@ -17701,7 +17701,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-23-US</id>
     <url>https://jobs.aisthis.com/us/cnc-machinist/</url>
@@ -17765,7 +17765,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-16-NL</id>
     <url>https://jobs.aisthis.com/nl/insulation-worker/</url>
@@ -17829,7 +17829,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-16-DE</id>
     <url>https://jobs.aisthis.com/de/insulation-worker/</url>
@@ -17893,7 +17893,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-16-FR</id>
     <url>https://jobs.aisthis.com/fr/insulation-worker/</url>
@@ -17957,7 +17957,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-16-BE</id>
     <url>https://jobs.aisthis.com/be/insulation-worker/</url>
@@ -18021,7 +18021,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-16-UK</id>
     <url>https://jobs.aisthis.com/uk/insulation-worker/</url>
@@ -18085,7 +18085,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-16-US</id>
     <url>https://jobs.aisthis.com/us/insulation-worker/</url>
@@ -18149,7 +18149,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-86-NL</id>
     <url>https://jobs.aisthis.com/nl/logger/</url>
@@ -18200,7 +18200,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-86-DE</id>
     <url>https://jobs.aisthis.com/de/logger/</url>
@@ -18251,7 +18251,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-86-FR</id>
     <url>https://jobs.aisthis.com/fr/logger/</url>
@@ -18302,7 +18302,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-86-BE</id>
     <url>https://jobs.aisthis.com/be/logger/</url>
@@ -18353,7 +18353,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-86-UK</id>
     <url>https://jobs.aisthis.com/uk/logger/</url>
@@ -18404,7 +18404,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-86-US</id>
     <url>https://jobs.aisthis.com/us/logger/</url>
@@ -18455,7 +18455,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-80-NL</id>
     <url>https://jobs.aisthis.com/nl/arable-farmer/</url>
@@ -18506,7 +18506,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-80-DE</id>
     <url>https://jobs.aisthis.com/de/arable-farmer/</url>
@@ -18557,7 +18557,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-80-FR</id>
     <url>https://jobs.aisthis.com/fr/arable-farmer/</url>
@@ -18608,7 +18608,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-80-BE</id>
     <url>https://jobs.aisthis.com/be/arable-farmer/</url>
@@ -18659,7 +18659,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-80-UK</id>
     <url>https://jobs.aisthis.com/uk/arable-farmer/</url>
@@ -18710,7 +18710,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-80-US</id>
     <url>https://jobs.aisthis.com/us/arable-farmer/</url>
@@ -18761,7 +18761,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-82-NL</id>
     <url>https://jobs.aisthis.com/nl/arborist/</url>
@@ -18812,7 +18812,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-82-DE</id>
     <url>https://jobs.aisthis.com/de/arborist/</url>
@@ -18863,7 +18863,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-82-FR</id>
     <url>https://jobs.aisthis.com/fr/arborist/</url>
@@ -18914,7 +18914,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-82-BE</id>
     <url>https://jobs.aisthis.com/be/arborist/</url>
@@ -18965,7 +18965,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-82-UK</id>
     <url>https://jobs.aisthis.com/uk/arborist/</url>
@@ -19016,7 +19016,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-82-US</id>
     <url>https://jobs.aisthis.com/us/arborist/</url>
@@ -19067,7 +19067,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-60-NL</id>
     <url>https://jobs.aisthis.com/nl/textile/</url>
@@ -19126,7 +19126,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-60-DE</id>
     <url>https://jobs.aisthis.com/de/textile/</url>
@@ -19185,7 +19185,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-60-FR</id>
     <url>https://jobs.aisthis.com/fr/textile/</url>
@@ -19244,7 +19244,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-60-BE</id>
     <url>https://jobs.aisthis.com/be/textile/</url>
@@ -19303,7 +19303,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-60-UK</id>
     <url>https://jobs.aisthis.com/uk/textile/</url>
@@ -19362,7 +19362,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-60-US</id>
     <url>https://jobs.aisthis.com/us/textile/</url>
@@ -19421,7 +19421,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-43-NL</id>
     <url>https://jobs.aisthis.com/nl/prosthetics-and-orthotics-technician/</url>
@@ -19483,7 +19483,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-43-DE</id>
     <url>https://jobs.aisthis.com/de/prosthetics-and-orthotics-technician/</url>
@@ -19545,7 +19545,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-43-FR</id>
     <url>https://jobs.aisthis.com/fr/prosthetics-and-orthotics-technician/</url>
@@ -19607,7 +19607,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-43-BE</id>
     <url>https://jobs.aisthis.com/be/prosthetics-and-orthotics-technician/</url>
@@ -19669,7 +19669,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-43-UK</id>
     <url>https://jobs.aisthis.com/uk/prosthetics-and-orthotics-technician/</url>
@@ -19731,7 +19731,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-43-US</id>
     <url>https://jobs.aisthis.com/us/prosthetics-and-orthotics-technician/</url>
@@ -19793,7 +19793,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-47-NL</id>
     <url>https://jobs.aisthis.com/nl/delivery-driver/</url>
@@ -19855,7 +19855,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-47-DE</id>
     <url>https://jobs.aisthis.com/de/delivery-driver/</url>
@@ -19917,7 +19917,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-47-FR</id>
     <url>https://jobs.aisthis.com/fr/delivery-driver/</url>
@@ -19979,7 +19979,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-47-BE</id>
     <url>https://jobs.aisthis.com/be/delivery-driver/</url>
@@ -20041,7 +20041,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-47-UK</id>
     <url>https://jobs.aisthis.com/uk/delivery-driver/</url>
@@ -20103,7 +20103,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-47-US</id>
     <url>https://jobs.aisthis.com/us/delivery-driver/</url>
@@ -20165,7 +20165,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-20-NL</id>
     <url>https://jobs.aisthis.com/nl/dental-nurse/</url>
@@ -20229,7 +20229,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-20-DE</id>
     <url>https://jobs.aisthis.com/de/dental-nurse/</url>
@@ -20293,7 +20293,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-20-FR</id>
     <url>https://jobs.aisthis.com/fr/dental-nurse/</url>
@@ -20357,7 +20357,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-20-BE</id>
     <url>https://jobs.aisthis.com/be/dental-nurse/</url>
@@ -20421,7 +20421,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-20-UK</id>
     <url>https://jobs.aisthis.com/uk/dental-nurse/</url>
@@ -20485,7 +20485,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-20-US</id>
     <url>https://jobs.aisthis.com/us/dental-nurse/</url>
@@ -20549,7 +20549,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-95-NL</id>
     <url>https://jobs.aisthis.com/nl/confined-space/</url>
@@ -20599,7 +20599,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-95-DE</id>
     <url>https://jobs.aisthis.com/de/confined-space/</url>
@@ -20649,7 +20649,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-95-FR</id>
     <url>https://jobs.aisthis.com/fr/confined-space/</url>
@@ -20699,7 +20699,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-95-BE</id>
     <url>https://jobs.aisthis.com/be/confined-space/</url>
@@ -20749,7 +20749,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-95-UK</id>
     <url>https://jobs.aisthis.com/uk/confined-space/</url>
@@ -20799,7 +20799,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-95-US</id>
     <url>https://jobs.aisthis.com/us/confined-space/</url>
@@ -20849,307 +20849,7 @@
     <salary_min>59.4</salary_min>
     <salary_max>91.8</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
-  </ad>  <ad>
-    <id>OBS-69-NL</id>
-    <url>https://jobs.aisthis.com/nl/coastguard/</url>
-    <title>Coastguard / Sea Rescue — Observer Programme</title>
-    <company>Aisthis</company>
-    <description><![CDATA[<p><strong>Current: v2.0 · Last edited: 2026-03-24</strong></p>
-<hr>
-<h2>Coastguard / Sea Rescue — Your Training Saves Lives</h2>
-<p><strong>Maritime operations, cliff rescue, water recovery — your skill in extreme conditions is rare and valuable.</strong></p>
-<p>The Observer Programme pays coastguard and sea rescue operatives to record their working day using lightweight smart glasses and a wristband.</p>
-<hr>
-<h3>How it works</h3>
-<ul>
-<li>Wear smart glasses and a wristband during operations and training</li>
-<li>Record sessions from 30 minutes up</li>
-<li>Get paid per recorded minute</li>
-<li>All recordings are anonymised</li>
-</ul>
-<hr>
-<h3>What you'll earn</h3>
-<p><strong>€55–€85 per recorded hour</strong> | <strong>€3,200–€4,500 per month</strong> (based on 20 recording days)</p>
-<hr>
-<h3>What we're looking for</h3>
-<ul>
-<li>3+ years of coastguard/maritime rescue experience</li>
-<li>Currently serving or working</li>
-<li>Smartphone (iOS or Android)</li>
-</ul>
-<p><strong>All roles welcome:</strong> coastal operations officer, maritime rescue coordinator, cliff/water rescue operative.</p>
-<hr>
-<h3>We provide everything</h3>
-<ul>
-<li>Smart glasses, onboarding, dedicated contact person, biometric wristband</li>
-</ul>
-<hr>
-<h3>Quick apply — 3 questions</h3>
-<ol>
-<li>What's your coastguard/rescue role?</li>
-<li>How many years of experience?</li>
-<li>Are you currently active?</li>
-</ol>
-<p><strong>Your expertise is valuable. Find out what it's worth.</strong></p>]]></description>
-    <country>NL</country>
-    <category>Emergency Services</category>
-    <contract>Contract</contract>
-    <salary_currency>EUR</salary_currency>
-    <salary_min>55.0</salary_min>
-    <salary_max>85.0</salary_max>
-    <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
-  </ad>  <ad>
-    <id>OBS-69-DE</id>
-    <url>https://jobs.aisthis.com/de/coastguard/</url>
-    <title>Coastguard / Sea Rescue — Observer Programme</title>
-    <company>Aisthis</company>
-    <description><![CDATA[<p><strong>Current: v2.0 · Last edited: 2026-03-24</strong></p>
-<hr>
-<h2>Coastguard / Sea Rescue — Your Training Saves Lives</h2>
-<p><strong>Maritime operations, cliff rescue, water recovery — your skill in extreme conditions is rare and valuable.</strong></p>
-<p>The Observer Programme pays coastguard and sea rescue operatives to record their working day using lightweight smart glasses and a wristband.</p>
-<hr>
-<h3>How it works</h3>
-<ul>
-<li>Wear smart glasses and a wristband during operations and training</li>
-<li>Record sessions from 30 minutes up</li>
-<li>Get paid per recorded minute</li>
-<li>All recordings are anonymised</li>
-</ul>
-<hr>
-<h3>What you'll earn</h3>
-<p><strong>€55–€85 per recorded hour</strong> | <strong>€3,200–€4,500 per month</strong> (based on 20 recording days)</p>
-<hr>
-<h3>What we're looking for</h3>
-<ul>
-<li>3+ years of coastguard/maritime rescue experience</li>
-<li>Currently serving or working</li>
-<li>Smartphone (iOS or Android)</li>
-</ul>
-<p><strong>All roles welcome:</strong> coastal operations officer, maritime rescue coordinator, cliff/water rescue operative.</p>
-<hr>
-<h3>We provide everything</h3>
-<ul>
-<li>Smart glasses, onboarding, dedicated contact person, biometric wristband</li>
-</ul>
-<hr>
-<h3>Quick apply — 3 questions</h3>
-<ol>
-<li>What's your coastguard/rescue role?</li>
-<li>How many years of experience?</li>
-<li>Are you currently active?</li>
-</ol>
-<p><strong>Your expertise is valuable. Find out what it's worth.</strong></p>]]></description>
-    <country>DE</country>
-    <category>Emergency Services</category>
-    <contract>Contract</contract>
-    <salary_currency>EUR</salary_currency>
-    <salary_min>55.0</salary_min>
-    <salary_max>85.0</salary_max>
-    <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
-  </ad>  <ad>
-    <id>OBS-69-FR</id>
-    <url>https://jobs.aisthis.com/fr/coastguard/</url>
-    <title>Coastguard / Sea Rescue — Observer Programme</title>
-    <company>Aisthis</company>
-    <description><![CDATA[<p><strong>Current: v2.0 · Last edited: 2026-03-24</strong></p>
-<hr>
-<h2>Coastguard / Sea Rescue — Your Training Saves Lives</h2>
-<p><strong>Maritime operations, cliff rescue, water recovery — your skill in extreme conditions is rare and valuable.</strong></p>
-<p>The Observer Programme pays coastguard and sea rescue operatives to record their working day using lightweight smart glasses and a wristband.</p>
-<hr>
-<h3>How it works</h3>
-<ul>
-<li>Wear smart glasses and a wristband during operations and training</li>
-<li>Record sessions from 30 minutes up</li>
-<li>Get paid per recorded minute</li>
-<li>All recordings are anonymised</li>
-</ul>
-<hr>
-<h3>What you'll earn</h3>
-<p><strong>€55–€85 per recorded hour</strong> | <strong>€3,200–€4,500 per month</strong> (based on 20 recording days)</p>
-<hr>
-<h3>What we're looking for</h3>
-<ul>
-<li>3+ years of coastguard/maritime rescue experience</li>
-<li>Currently serving or working</li>
-<li>Smartphone (iOS or Android)</li>
-</ul>
-<p><strong>All roles welcome:</strong> coastal operations officer, maritime rescue coordinator, cliff/water rescue operative.</p>
-<hr>
-<h3>We provide everything</h3>
-<ul>
-<li>Smart glasses, onboarding, dedicated contact person, biometric wristband</li>
-</ul>
-<hr>
-<h3>Quick apply — 3 questions</h3>
-<ol>
-<li>What's your coastguard/rescue role?</li>
-<li>How many years of experience?</li>
-<li>Are you currently active?</li>
-</ol>
-<p><strong>Your expertise is valuable. Find out what it's worth.</strong></p>]]></description>
-    <country>FR</country>
-    <category>Emergency Services</category>
-    <contract>Contract</contract>
-    <salary_currency>EUR</salary_currency>
-    <salary_min>55.0</salary_min>
-    <salary_max>85.0</salary_max>
-    <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
-  </ad>  <ad>
-    <id>OBS-69-BE</id>
-    <url>https://jobs.aisthis.com/be/coastguard/</url>
-    <title>Coastguard / Sea Rescue — Observer Programme</title>
-    <company>Aisthis</company>
-    <description><![CDATA[<p><strong>Current: v2.0 · Last edited: 2026-03-24</strong></p>
-<hr>
-<h2>Coastguard / Sea Rescue — Your Training Saves Lives</h2>
-<p><strong>Maritime operations, cliff rescue, water recovery — your skill in extreme conditions is rare and valuable.</strong></p>
-<p>The Observer Programme pays coastguard and sea rescue operatives to record their working day using lightweight smart glasses and a wristband.</p>
-<hr>
-<h3>How it works</h3>
-<ul>
-<li>Wear smart glasses and a wristband during operations and training</li>
-<li>Record sessions from 30 minutes up</li>
-<li>Get paid per recorded minute</li>
-<li>All recordings are anonymised</li>
-</ul>
-<hr>
-<h3>What you'll earn</h3>
-<p><strong>€55–€85 per recorded hour</strong> | <strong>€3,200–€4,500 per month</strong> (based on 20 recording days)</p>
-<hr>
-<h3>What we're looking for</h3>
-<ul>
-<li>3+ years of coastguard/maritime rescue experience</li>
-<li>Currently serving or working</li>
-<li>Smartphone (iOS or Android)</li>
-</ul>
-<p><strong>All roles welcome:</strong> coastal operations officer, maritime rescue coordinator, cliff/water rescue operative.</p>
-<hr>
-<h3>We provide everything</h3>
-<ul>
-<li>Smart glasses, onboarding, dedicated contact person, biometric wristband</li>
-</ul>
-<hr>
-<h3>Quick apply — 3 questions</h3>
-<ol>
-<li>What's your coastguard/rescue role?</li>
-<li>How many years of experience?</li>
-<li>Are you currently active?</li>
-</ol>
-<p><strong>Your expertise is valuable. Find out what it's worth.</strong></p>]]></description>
-    <country>BE</country>
-    <category>Emergency Services</category>
-    <contract>Contract</contract>
-    <salary_currency>EUR</salary_currency>
-    <salary_min>55.0</salary_min>
-    <salary_max>85.0</salary_max>
-    <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
-  </ad>  <ad>
-    <id>OBS-69-UK</id>
-    <url>https://jobs.aisthis.com/uk/coastguard/</url>
-    <title>Coastguard / Sea Rescue — Observer Programme</title>
-    <company>Aisthis</company>
-    <description><![CDATA[<p><strong>Current: v2.0 · Last edited: 2026-03-24</strong></p>
-<hr>
-<h2>Coastguard / Sea Rescue — Your Training Saves Lives</h2>
-<p><strong>Maritime operations, cliff rescue, water recovery — your skill in extreme conditions is rare and valuable.</strong></p>
-<p>The Observer Programme pays coastguard and sea rescue operatives to record their working day using lightweight smart glasses and a wristband.</p>
-<hr>
-<h3>How it works</h3>
-<ul>
-<li>Wear smart glasses and a wristband during operations and training</li>
-<li>Record sessions from 30 minutes up</li>
-<li>Get paid per recorded minute</li>
-<li>All recordings are anonymised</li>
-</ul>
-<hr>
-<h3>What you'll earn</h3>
-<p><strong>€55–€85 per recorded hour</strong> | <strong>€3,200–€4,500 per month</strong> (based on 20 recording days)</p>
-<hr>
-<h3>What we're looking for</h3>
-<ul>
-<li>3+ years of coastguard/maritime rescue experience</li>
-<li>Currently serving or working</li>
-<li>Smartphone (iOS or Android)</li>
-</ul>
-<p><strong>All roles welcome:</strong> coastal operations officer, maritime rescue coordinator, cliff/water rescue operative.</p>
-<hr>
-<h3>We provide everything</h3>
-<ul>
-<li>Smart glasses, onboarding, dedicated contact person, biometric wristband</li>
-</ul>
-<hr>
-<h3>Quick apply — 3 questions</h3>
-<ol>
-<li>What's your coastguard/rescue role?</li>
-<li>How many years of experience?</li>
-<li>Are you currently active?</li>
-</ol>
-<p><strong>Your expertise is valuable. Find out what it's worth.</strong></p>]]></description>
-    <country>GB</country>
-    <category>Emergency Services</category>
-    <contract>Contract</contract>
-    <salary_currency>EUR</salary_currency>
-    <salary_min>55.0</salary_min>
-    <salary_max>85.0</salary_max>
-    <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
-  </ad>  <ad>
-    <id>OBS-69-US</id>
-    <url>https://jobs.aisthis.com/us/coastguard/</url>
-    <title>Coastguard / Sea Rescue — Observer Programme</title>
-    <company>Aisthis</company>
-    <description><![CDATA[<p><strong>Current: v2.0 · Last edited: 2026-03-24</strong></p>
-<hr>
-<h2>Coastguard / Sea Rescue — Your Training Saves Lives</h2>
-<p><strong>Maritime operations, cliff rescue, water recovery — your skill in extreme conditions is rare and valuable.</strong></p>
-<p>The Observer Programme pays coastguard and sea rescue operatives to record their working day using lightweight smart glasses and a wristband.</p>
-<hr>
-<h3>How it works</h3>
-<ul>
-<li>Wear smart glasses and a wristband during operations and training</li>
-<li>Record sessions from 30 minutes up</li>
-<li>Get paid per recorded minute</li>
-<li>All recordings are anonymised</li>
-</ul>
-<hr>
-<h3>What you'll earn</h3>
-<p><strong>€55–€85 per recorded hour</strong> | <strong>€3,200–€4,500 per month</strong> (based on 20 recording days)</p>
-<hr>
-<h3>What we're looking for</h3>
-<ul>
-<li>3+ years of coastguard/maritime rescue experience</li>
-<li>Currently serving or working</li>
-<li>Smartphone (iOS or Android)</li>
-</ul>
-<p><strong>All roles welcome:</strong> coastal operations officer, maritime rescue coordinator, cliff/water rescue operative.</p>
-<hr>
-<h3>We provide everything</h3>
-<ul>
-<li>Smart glasses, onboarding, dedicated contact person, biometric wristband</li>
-</ul>
-<hr>
-<h3>Quick apply — 3 questions</h3>
-<ol>
-<li>What's your coastguard/rescue role?</li>
-<li>How many years of experience?</li>
-<li>Are you currently active?</li>
-</ol>
-<p><strong>Your expertise is valuable. Find out what it's worth.</strong></p>]]></description>
-    <country>US</country>
-    <category>Emergency Services</category>
-    <contract>Contract</contract>
-    <salary_currency>USD</salary_currency>
-    <salary_min>59.4</salary_min>
-    <salary_max>91.8</salary_max>
-    <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-67-NL</id>
     <url>https://jobs.aisthis.com/nl/event-catering-operative/</url>
@@ -21199,7 +20899,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-67-DE</id>
     <url>https://jobs.aisthis.com/de/event-catering-operative/</url>
@@ -21249,7 +20949,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-67-FR</id>
     <url>https://jobs.aisthis.com/fr/event-catering-operative/</url>
@@ -21299,7 +20999,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-67-BE</id>
     <url>https://jobs.aisthis.com/be/event-catering-operative/</url>
@@ -21349,7 +21049,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-67-UK</id>
     <url>https://jobs.aisthis.com/uk/event-catering-operative/</url>
@@ -21399,7 +21099,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-67-US</id>
     <url>https://jobs.aisthis.com/us/event-catering-operative/</url>
@@ -21449,7 +21149,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-33-NL</id>
     <url>https://jobs.aisthis.com/nl/plasterer/</url>
@@ -21511,7 +21211,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-33-DE</id>
     <url>https://jobs.aisthis.com/de/plasterer/</url>
@@ -21573,7 +21273,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-33-FR</id>
     <url>https://jobs.aisthis.com/fr/plasterer/</url>
@@ -21635,7 +21335,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-33-BE</id>
     <url>https://jobs.aisthis.com/be/plasterer/</url>
@@ -21697,7 +21397,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-33-UK</id>
     <url>https://jobs.aisthis.com/uk/plasterer/</url>
@@ -21759,7 +21459,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-33-US</id>
     <url>https://jobs.aisthis.com/us/plasterer/</url>
@@ -21821,7 +21521,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-45-NL</id>
     <url>https://jobs.aisthis.com/nl/mental-health-support-worker/</url>
@@ -21882,7 +21582,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-45-DE</id>
     <url>https://jobs.aisthis.com/de/mental-health-support-worker/</url>
@@ -21943,7 +21643,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-45-FR</id>
     <url>https://jobs.aisthis.com/fr/mental-health-support-worker/</url>
@@ -22004,7 +21704,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-45-BE</id>
     <url>https://jobs.aisthis.com/be/mental-health-support-worker/</url>
@@ -22065,7 +21765,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-45-UK</id>
     <url>https://jobs.aisthis.com/uk/mental-health-support-worker/</url>
@@ -22126,7 +21826,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-45-US</id>
     <url>https://jobs.aisthis.com/us/mental-health-support-worker/</url>
@@ -22187,7 +21887,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-48-NL</id>
     <url>https://jobs.aisthis.com/nl/port-and-dockside-worker/</url>
@@ -22249,7 +21949,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-48-DE</id>
     <url>https://jobs.aisthis.com/de/port-and-dockside-worker/</url>
@@ -22311,7 +22011,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-48-FR</id>
     <url>https://jobs.aisthis.com/fr/port-and-dockside-worker/</url>
@@ -22373,7 +22073,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-48-BE</id>
     <url>https://jobs.aisthis.com/be/port-and-dockside-worker/</url>
@@ -22435,7 +22135,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-48-UK</id>
     <url>https://jobs.aisthis.com/uk/port-and-dockside-worker/</url>
@@ -22497,7 +22197,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-48-US</id>
     <url>https://jobs.aisthis.com/us/port-and-dockside-worker/</url>
@@ -22559,7 +22259,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-17-NL</id>
     <url>https://jobs.aisthis.com/nl/concrete-finisher/</url>
@@ -22623,7 +22323,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-17-DE</id>
     <url>https://jobs.aisthis.com/de/concrete-finisher/</url>
@@ -22687,7 +22387,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-17-FR</id>
     <url>https://jobs.aisthis.com/fr/concrete-finisher/</url>
@@ -22751,7 +22451,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-17-BE</id>
     <url>https://jobs.aisthis.com/be/concrete-finisher/</url>
@@ -22815,7 +22515,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-17-UK</id>
     <url>https://jobs.aisthis.com/uk/concrete-finisher/</url>
@@ -22879,7 +22579,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-17-US</id>
     <url>https://jobs.aisthis.com/us/concrete-finisher/</url>
@@ -22943,7 +22643,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-61-NL</id>
     <url>https://jobs.aisthis.com/nl/printing-operative/</url>
@@ -23002,7 +22702,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-61-DE</id>
     <url>https://jobs.aisthis.com/de/printing-operative/</url>
@@ -23061,7 +22761,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-61-FR</id>
     <url>https://jobs.aisthis.com/fr/printing-operative/</url>
@@ -23120,7 +22820,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-61-BE</id>
     <url>https://jobs.aisthis.com/be/printing-operative/</url>
@@ -23179,7 +22879,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-61-UK</id>
     <url>https://jobs.aisthis.com/uk/printing-operative/</url>
@@ -23238,7 +22938,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-61-US</id>
     <url>https://jobs.aisthis.com/us/printing-operative/</url>
@@ -23297,7 +22997,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-52-NL</id>
     <url>https://jobs.aisthis.com/nl/inventory/</url>
@@ -23358,7 +23058,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-52-DE</id>
     <url>https://jobs.aisthis.com/de/inventory/</url>
@@ -23419,7 +23119,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-52-FR</id>
     <url>https://jobs.aisthis.com/fr/inventory/</url>
@@ -23480,7 +23180,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-52-BE</id>
     <url>https://jobs.aisthis.com/be/inventory/</url>
@@ -23541,7 +23241,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-52-UK</id>
     <url>https://jobs.aisthis.com/uk/inventory/</url>
@@ -23602,7 +23302,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-52-US</id>
     <url>https://jobs.aisthis.com/us/inventory/</url>
@@ -23663,7 +23363,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-57-NL</id>
     <url>https://jobs.aisthis.com/nl/quality-control-inspector/</url>
@@ -23725,7 +23425,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-57-DE</id>
     <url>https://jobs.aisthis.com/de/quality-control-inspector/</url>
@@ -23787,7 +23487,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-57-FR</id>
     <url>https://jobs.aisthis.com/fr/quality-control-inspector/</url>
@@ -23849,7 +23549,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-57-BE</id>
     <url>https://jobs.aisthis.com/be/quality-control-inspector/</url>
@@ -23911,7 +23611,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-57-UK</id>
     <url>https://jobs.aisthis.com/uk/quality-control-inspector/</url>
@@ -23973,7 +23673,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-57-US</id>
     <url>https://jobs.aisthis.com/us/quality-control-inspector/</url>
@@ -24035,7 +23735,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-32-NL</id>
     <url>https://jobs.aisthis.com/nl/demolition-worker/</url>
@@ -24097,7 +23797,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-32-DE</id>
     <url>https://jobs.aisthis.com/de/demolition-worker/</url>
@@ -24159,7 +23859,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-32-FR</id>
     <url>https://jobs.aisthis.com/fr/demolition-worker/</url>
@@ -24221,7 +23921,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-32-BE</id>
     <url>https://jobs.aisthis.com/be/demolition-worker/</url>
@@ -24283,7 +23983,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-32-UK</id>
     <url>https://jobs.aisthis.com/uk/demolition-worker/</url>
@@ -24345,7 +24045,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-32-US</id>
     <url>https://jobs.aisthis.com/us/demolition-worker/</url>
@@ -24407,7 +24107,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-90-NL</id>
     <url>https://jobs.aisthis.com/nl/tattoo-removal/</url>
@@ -24457,7 +24157,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-90-DE</id>
     <url>https://jobs.aisthis.com/de/tattoo-removal/</url>
@@ -24507,7 +24207,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-90-FR</id>
     <url>https://jobs.aisthis.com/fr/tattoo-removal/</url>
@@ -24557,7 +24257,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-90-BE</id>
     <url>https://jobs.aisthis.com/be/tattoo-removal/</url>
@@ -24607,7 +24307,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-90-UK</id>
     <url>https://jobs.aisthis.com/uk/tattoo-removal/</url>
@@ -24657,7 +24357,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-90-US</id>
     <url>https://jobs.aisthis.com/us/tattoo-removal/</url>
@@ -24707,7 +24407,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-84-NL</id>
     <url>https://jobs.aisthis.com/nl/veterinary-nurse/</url>
@@ -24757,7 +24457,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-84-DE</id>
     <url>https://jobs.aisthis.com/de/veterinary-nurse/</url>
@@ -24807,7 +24507,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-84-FR</id>
     <url>https://jobs.aisthis.com/fr/veterinary-nurse/</url>
@@ -24857,7 +24557,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-84-BE</id>
     <url>https://jobs.aisthis.com/be/veterinary-nurse/</url>
@@ -24907,7 +24607,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-84-UK</id>
     <url>https://jobs.aisthis.com/uk/veterinary-nurse/</url>
@@ -24957,7 +24657,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-84-US</id>
     <url>https://jobs.aisthis.com/us/veterinary-nurse/</url>
@@ -25007,7 +24707,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-94-NL</id>
     <url>https://jobs.aisthis.com/nl/nuclear-decommissioning-operative/</url>
@@ -25057,7 +24757,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-94-DE</id>
     <url>https://jobs.aisthis.com/de/nuclear-decommissioning-operative/</url>
@@ -25107,7 +24807,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-94-FR</id>
     <url>https://jobs.aisthis.com/fr/nuclear-decommissioning-operative/</url>
@@ -25157,7 +24857,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-94-BE</id>
     <url>https://jobs.aisthis.com/be/nuclear-decommissioning-operative/</url>
@@ -25207,7 +24907,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-94-UK</id>
     <url>https://jobs.aisthis.com/uk/nuclear-decommissioning-operative/</url>
@@ -25257,7 +24957,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-94-US</id>
     <url>https://jobs.aisthis.com/us/nuclear-decommissioning-operative/</url>
@@ -25307,7 +25007,7 @@
     <salary_min>118.8</salary_min>
     <salary_max>194.4</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-10-NL</id>
     <url>https://jobs.aisthis.com/nl/roofer/</url>
@@ -25372,7 +25072,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-10-DE</id>
     <url>https://jobs.aisthis.com/de/roofer/</url>
@@ -25437,7 +25137,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-10-FR</id>
     <url>https://jobs.aisthis.com/fr/roofer/</url>
@@ -25502,7 +25202,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-10-BE</id>
     <url>https://jobs.aisthis.com/be/roofer/</url>
@@ -25567,7 +25267,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-10-UK</id>
     <url>https://jobs.aisthis.com/uk/roofer/</url>
@@ -25632,7 +25332,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-10-US</id>
     <url>https://jobs.aisthis.com/us/roofer/</url>
@@ -25697,7 +25397,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-56-NL</id>
     <url>https://jobs.aisthis.com/nl/electronics-assembly-technician/</url>
@@ -25759,7 +25459,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-56-DE</id>
     <url>https://jobs.aisthis.com/de/electronics-assembly-technician/</url>
@@ -25821,7 +25521,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-56-FR</id>
     <url>https://jobs.aisthis.com/fr/electronics-assembly-technician/</url>
@@ -25883,7 +25583,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-56-BE</id>
     <url>https://jobs.aisthis.com/be/electronics-assembly-technician/</url>
@@ -25945,7 +25645,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-56-UK</id>
     <url>https://jobs.aisthis.com/uk/electronics-assembly-technician/</url>
@@ -26007,7 +25707,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-56-US</id>
     <url>https://jobs.aisthis.com/us/electronics-assembly-technician/</url>
@@ -26069,7 +25769,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-21-NL</id>
     <url>https://jobs.aisthis.com/nl/care-home-worker/</url>
@@ -26132,7 +25832,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-21-DE</id>
     <url>https://jobs.aisthis.com/de/care-home-worker/</url>
@@ -26195,7 +25895,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-21-FR</id>
     <url>https://jobs.aisthis.com/fr/care-home-worker/</url>
@@ -26258,7 +25958,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-21-BE</id>
     <url>https://jobs.aisthis.com/be/care-home-worker/</url>
@@ -26321,7 +26021,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-21-UK</id>
     <url>https://jobs.aisthis.com/uk/care-home-worker/</url>
@@ -26384,7 +26084,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-21-US</id>
     <url>https://jobs.aisthis.com/us/care-home-worker/</url>
@@ -26447,7 +26147,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-19-NL</id>
     <url>https://jobs.aisthis.com/nl/radiographer/</url>
@@ -26511,7 +26211,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-19-DE</id>
     <url>https://jobs.aisthis.com/de/radiographer/</url>
@@ -26575,7 +26275,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-19-FR</id>
     <url>https://jobs.aisthis.com/fr/radiographer/</url>
@@ -26639,7 +26339,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-19-BE</id>
     <url>https://jobs.aisthis.com/be/radiographer/</url>
@@ -26703,7 +26403,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-19-UK</id>
     <url>https://jobs.aisthis.com/uk/radiographer/</url>
@@ -26767,7 +26467,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-19-US</id>
     <url>https://jobs.aisthis.com/us/radiographer/</url>
@@ -26831,7 +26531,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-93-NL</id>
     <url>https://jobs.aisthis.com/nl/commercial-diver/</url>
@@ -26882,7 +26582,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-93-DE</id>
     <url>https://jobs.aisthis.com/de/commercial-diver/</url>
@@ -26933,7 +26633,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-93-FR</id>
     <url>https://jobs.aisthis.com/fr/commercial-diver/</url>
@@ -26984,7 +26684,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-93-BE</id>
     <url>https://jobs.aisthis.com/be/commercial-diver/</url>
@@ -27035,7 +26735,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-93-UK</id>
     <url>https://jobs.aisthis.com/uk/commercial-diver/</url>
@@ -27086,7 +26786,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-93-US</id>
     <url>https://jobs.aisthis.com/us/commercial-diver/</url>
@@ -27137,7 +26837,7 @@
     <salary_min>118.8</salary_min>
     <salary_max>194.4</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-35-NL</id>
     <url>https://jobs.aisthis.com/nl/railway-track-worker/</url>
@@ -27201,7 +26901,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-35-DE</id>
     <url>https://jobs.aisthis.com/de/railway-track-worker/</url>
@@ -27265,7 +26965,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-35-FR</id>
     <url>https://jobs.aisthis.com/fr/railway-track-worker/</url>
@@ -27329,7 +27029,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-35-BE</id>
     <url>https://jobs.aisthis.com/be/railway-track-worker/</url>
@@ -27393,7 +27093,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-35-UK</id>
     <url>https://jobs.aisthis.com/uk/railway-track-worker/</url>
@@ -27457,7 +27157,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-35-US</id>
     <url>https://jobs.aisthis.com/us/railway-track-worker/</url>
@@ -27521,7 +27221,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-25-NL</id>
     <url>https://jobs.aisthis.com/nl/site-civil-engineer/</url>
@@ -27586,7 +27286,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-25-DE</id>
     <url>https://jobs.aisthis.com/de/site-civil-engineer/</url>
@@ -27651,7 +27351,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-25-FR</id>
     <url>https://jobs.aisthis.com/fr/site-civil-engineer/</url>
@@ -27716,7 +27416,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-25-BE</id>
     <url>https://jobs.aisthis.com/be/site-civil-engineer/</url>
@@ -27781,7 +27481,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-25-UK</id>
     <url>https://jobs.aisthis.com/uk/site-civil-engineer/</url>
@@ -27846,7 +27546,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-25-US</id>
     <url>https://jobs.aisthis.com/us/site-civil-engineer/</url>
@@ -27911,7 +27611,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-28-NL</id>
     <url>https://jobs.aisthis.com/nl/vehicle-mechanic/</url>
@@ -27975,7 +27675,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-28-DE</id>
     <url>https://jobs.aisthis.com/de/vehicle-mechanic/</url>
@@ -28039,7 +27739,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-28-FR</id>
     <url>https://jobs.aisthis.com/fr/vehicle-mechanic/</url>
@@ -28103,7 +27803,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-28-BE</id>
     <url>https://jobs.aisthis.com/be/vehicle-mechanic/</url>
@@ -28167,7 +27867,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-28-UK</id>
     <url>https://jobs.aisthis.com/uk/vehicle-mechanic/</url>
@@ -28231,7 +27931,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-28-US</id>
     <url>https://jobs.aisthis.com/us/vehicle-mechanic/</url>
@@ -28295,7 +27995,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-65-NL</id>
     <url>https://jobs.aisthis.com/nl/butcher/</url>
@@ -28347,7 +28047,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-65-DE</id>
     <url>https://jobs.aisthis.com/de/butcher/</url>
@@ -28399,7 +28099,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-65-FR</id>
     <url>https://jobs.aisthis.com/fr/butcher/</url>
@@ -28451,7 +28151,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-65-BE</id>
     <url>https://jobs.aisthis.com/be/butcher/</url>
@@ -28503,7 +28203,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-65-UK</id>
     <url>https://jobs.aisthis.com/uk/butcher/</url>
@@ -28555,7 +28255,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-65-US</id>
     <url>https://jobs.aisthis.com/us/butcher/</url>
@@ -28607,7 +28307,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-59-NL</id>
     <url>https://jobs.aisthis.com/nl/food-production-operative/</url>
@@ -28666,7 +28366,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-59-DE</id>
     <url>https://jobs.aisthis.com/de/food-production-operative/</url>
@@ -28725,7 +28425,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-59-FR</id>
     <url>https://jobs.aisthis.com/fr/food-production-operative/</url>
@@ -28784,7 +28484,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-59-BE</id>
     <url>https://jobs.aisthis.com/be/food-production-operative/</url>
@@ -28843,7 +28543,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-59-UK</id>
     <url>https://jobs.aisthis.com/uk/food-production-operative/</url>
@@ -28902,7 +28602,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-59-US</id>
     <url>https://jobs.aisthis.com/us/food-production-operative/</url>
@@ -28961,7 +28661,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-26-NL</id>
     <url>https://jobs.aisthis.com/nl/me-site-engineer/</url>
@@ -29026,7 +28726,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-26-DE</id>
     <url>https://jobs.aisthis.com/de/me-site-engineer/</url>
@@ -29091,7 +28791,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-26-FR</id>
     <url>https://jobs.aisthis.com/fr/me-site-engineer/</url>
@@ -29156,7 +28856,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-26-BE</id>
     <url>https://jobs.aisthis.com/be/me-site-engineer/</url>
@@ -29221,7 +28921,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-26-UK</id>
     <url>https://jobs.aisthis.com/uk/me-site-engineer/</url>
@@ -29286,7 +28986,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-26-US</id>
     <url>https://jobs.aisthis.com/us/me-site-engineer/</url>
@@ -29351,7 +29051,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-78-NL</id>
     <url>https://jobs.aisthis.com/nl/plumbing-and-heating-engineer/</url>
@@ -29402,7 +29102,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-78-DE</id>
     <url>https://jobs.aisthis.com/de/plumbing-and-heating-engineer/</url>
@@ -29453,7 +29153,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-78-FR</id>
     <url>https://jobs.aisthis.com/fr/plumbing-and-heating-engineer/</url>
@@ -29504,7 +29204,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-78-BE</id>
     <url>https://jobs.aisthis.com/be/plumbing-and-heating-engineer/</url>
@@ -29555,7 +29255,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-78-UK</id>
     <url>https://jobs.aisthis.com/uk/plumbing-and-heating-engineer/</url>
@@ -29606,7 +29306,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-78-US</id>
     <url>https://jobs.aisthis.com/us/plumbing-and-heating-engineer/</url>
@@ -29657,7 +29357,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-92-NL</id>
     <url>https://jobs.aisthis.com/nl/underground-miner/</url>
@@ -29708,7 +29408,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-92-DE</id>
     <url>https://jobs.aisthis.com/de/underground-miner/</url>
@@ -29759,7 +29459,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-92-FR</id>
     <url>https://jobs.aisthis.com/fr/underground-miner/</url>
@@ -29810,7 +29510,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-92-BE</id>
     <url>https://jobs.aisthis.com/be/underground-miner/</url>
@@ -29861,7 +29561,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-92-UK</id>
     <url>https://jobs.aisthis.com/uk/underground-miner/</url>
@@ -29912,7 +29612,7 @@
     <salary_min>110.0</salary_min>
     <salary_max>180.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-92-US</id>
     <url>https://jobs.aisthis.com/us/underground-miner/</url>
@@ -29963,7 +29663,7 @@
     <salary_min>118.8</salary_min>
     <salary_max>194.4</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-71-NL</id>
     <url>https://jobs.aisthis.com/nl/prison-officer/</url>
@@ -30013,7 +29713,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-71-DE</id>
     <url>https://jobs.aisthis.com/de/prison-officer/</url>
@@ -30063,7 +29763,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-71-FR</id>
     <url>https://jobs.aisthis.com/fr/prison-officer/</url>
@@ -30113,7 +29813,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-71-BE</id>
     <url>https://jobs.aisthis.com/be/prison-officer/</url>
@@ -30163,7 +29863,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-71-UK</id>
     <url>https://jobs.aisthis.com/uk/prison-officer/</url>
@@ -30213,7 +29913,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-71-US</id>
     <url>https://jobs.aisthis.com/us/prison-officer/</url>
@@ -30263,7 +29963,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-31-NL</id>
     <url>https://jobs.aisthis.com/nl/crane-operator/</url>
@@ -30327,7 +30027,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-31-DE</id>
     <url>https://jobs.aisthis.com/de/crane-operator/</url>
@@ -30391,7 +30091,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-31-FR</id>
     <url>https://jobs.aisthis.com/fr/crane-operator/</url>
@@ -30455,7 +30155,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-31-BE</id>
     <url>https://jobs.aisthis.com/be/crane-operator/</url>
@@ -30519,7 +30219,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-31-UK</id>
     <url>https://jobs.aisthis.com/uk/crane-operator/</url>
@@ -30583,7 +30283,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-31-US</id>
     <url>https://jobs.aisthis.com/us/crane-operator/</url>
@@ -30647,7 +30347,7 @@
     <salary_min>59.4</salary_min>
     <salary_max>91.8</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-85-NL</id>
     <url>https://jobs.aisthis.com/nl/environmental/</url>
@@ -30697,7 +30397,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-85-DE</id>
     <url>https://jobs.aisthis.com/de/environmental/</url>
@@ -30747,7 +30447,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-85-FR</id>
     <url>https://jobs.aisthis.com/fr/environmental/</url>
@@ -30797,7 +30497,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-85-BE</id>
     <url>https://jobs.aisthis.com/be/environmental/</url>
@@ -30847,7 +30547,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-85-UK</id>
     <url>https://jobs.aisthis.com/uk/environmental/</url>
@@ -30897,7 +30597,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-85-US</id>
     <url>https://jobs.aisthis.com/us/environmental/</url>
@@ -30947,7 +30647,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-13-NL</id>
     <url>https://jobs.aisthis.com/nl/painter-decorator/</url>
@@ -31011,7 +30711,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-13-DE</id>
     <url>https://jobs.aisthis.com/de/painter-decorator/</url>
@@ -31075,7 +30775,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-13-FR</id>
     <url>https://jobs.aisthis.com/fr/painter-decorator/</url>
@@ -31139,7 +30839,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-13-BE</id>
     <url>https://jobs.aisthis.com/be/painter-decorator/</url>
@@ -31203,7 +30903,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-13-UK</id>
     <url>https://jobs.aisthis.com/uk/painter-decorator/</url>
@@ -31267,7 +30967,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-13-US</id>
     <url>https://jobs.aisthis.com/us/painter-decorator/</url>
@@ -31331,7 +31031,7 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-64-NL</id>
     <url>https://jobs.aisthis.com/nl/retail/</url>
@@ -31381,7 +31081,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-64-DE</id>
     <url>https://jobs.aisthis.com/de/retail/</url>
@@ -31431,7 +31131,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-64-FR</id>
     <url>https://jobs.aisthis.com/fr/retail/</url>
@@ -31481,7 +31181,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-64-BE</id>
     <url>https://jobs.aisthis.com/be/retail/</url>
@@ -31531,7 +31231,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-64-UK</id>
     <url>https://jobs.aisthis.com/uk/retail/</url>
@@ -31581,7 +31281,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-64-US</id>
     <url>https://jobs.aisthis.com/us/retail/</url>
@@ -31631,7 +31331,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-73-NL</id>
     <url>https://jobs.aisthis.com/nl/traffic-management-operative/</url>
@@ -31681,7 +31381,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-73-DE</id>
     <url>https://jobs.aisthis.com/de/traffic-management-operative/</url>
@@ -31731,7 +31431,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-73-FR</id>
     <url>https://jobs.aisthis.com/fr/traffic-management-operative/</url>
@@ -31781,7 +31481,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-73-BE</id>
     <url>https://jobs.aisthis.com/be/traffic-management-operative/</url>
@@ -31831,7 +31531,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-73-UK</id>
     <url>https://jobs.aisthis.com/uk/traffic-management-operative/</url>
@@ -31881,7 +31581,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-73-US</id>
     <url>https://jobs.aisthis.com/us/traffic-management-operative/</url>
@@ -31931,7 +31631,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-36-NL</id>
     <url>https://jobs.aisthis.com/nl/lift-engineer/</url>
@@ -31993,7 +31693,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-36-DE</id>
     <url>https://jobs.aisthis.com/de/lift-engineer/</url>
@@ -32055,7 +31755,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-36-FR</id>
     <url>https://jobs.aisthis.com/fr/lift-engineer/</url>
@@ -32117,7 +31817,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-36-BE</id>
     <url>https://jobs.aisthis.com/be/lift-engineer/</url>
@@ -32179,7 +31879,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-36-UK</id>
     <url>https://jobs.aisthis.com/uk/lift-engineer/</url>
@@ -32241,7 +31941,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-36-US</id>
     <url>https://jobs.aisthis.com/us/lift-engineer/</url>
@@ -32303,7 +32003,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-18-NL</id>
     <url>https://jobs.aisthis.com/nl/physiotherapist/</url>
@@ -32368,7 +32068,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-18-DE</id>
     <url>https://jobs.aisthis.com/de/physiotherapist/</url>
@@ -32433,7 +32133,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-18-FR</id>
     <url>https://jobs.aisthis.com/fr/physiotherapist/</url>
@@ -32498,7 +32198,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-18-BE</id>
     <url>https://jobs.aisthis.com/be/physiotherapist/</url>
@@ -32563,7 +32263,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-18-UK</id>
     <url>https://jobs.aisthis.com/uk/physiotherapist/</url>
@@ -32628,7 +32328,7 @@
     <salary_min>28.0</salary_min>
     <salary_max>42.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-18-US</id>
     <url>https://jobs.aisthis.com/us/physiotherapist/</url>
@@ -32693,7 +32393,7 @@
     <salary_min>30.24</salary_min>
     <salary_max>45.36</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-68-NL</id>
     <url>https://jobs.aisthis.com/nl/pharmacy/</url>
@@ -32743,7 +32443,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-68-DE</id>
     <url>https://jobs.aisthis.com/de/pharmacy/</url>
@@ -32793,7 +32493,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-68-FR</id>
     <url>https://jobs.aisthis.com/fr/pharmacy/</url>
@@ -32843,7 +32543,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-68-BE</id>
     <url>https://jobs.aisthis.com/be/pharmacy/</url>
@@ -32893,7 +32593,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-68-UK</id>
     <url>https://jobs.aisthis.com/uk/pharmacy/</url>
@@ -32943,7 +32643,7 @@
     <salary_min>15.0</salary_min>
     <salary_max>18.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-68-US</id>
     <url>https://jobs.aisthis.com/us/pharmacy/</url>
@@ -32993,7 +32693,7 @@
     <salary_min>16.2</salary_min>
     <salary_max>19.44</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-75-NL</id>
     <url>https://jobs.aisthis.com/nl/marine-engineer/</url>
@@ -33044,7 +32744,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-75-DE</id>
     <url>https://jobs.aisthis.com/de/marine-engineer/</url>
@@ -33095,7 +32795,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-75-FR</id>
     <url>https://jobs.aisthis.com/fr/marine-engineer/</url>
@@ -33146,7 +32846,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-75-BE</id>
     <url>https://jobs.aisthis.com/be/marine-engineer/</url>
@@ -33197,7 +32897,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-75-UK</id>
     <url>https://jobs.aisthis.com/uk/marine-engineer/</url>
@@ -33248,7 +32948,7 @@
     <salary_min>55.0</salary_min>
     <salary_max>85.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-75-US</id>
     <url>https://jobs.aisthis.com/us/marine-engineer/</url>
@@ -33299,7 +32999,7 @@
     <salary_min>59.4</salary_min>
     <salary_max>91.8</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-7-NL</id>
     <url>https://jobs.aisthis.com/nl/carpenter/</url>
@@ -33363,7 +33063,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-7-DE</id>
     <url>https://jobs.aisthis.com/de/carpenter/</url>
@@ -33427,7 +33127,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-7-FR</id>
     <url>https://jobs.aisthis.com/fr/carpenter/</url>
@@ -33491,7 +33191,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-7-BE</id>
     <url>https://jobs.aisthis.com/be/carpenter/</url>
@@ -33555,7 +33255,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-7-UK</id>
     <url>https://jobs.aisthis.com/uk/carpenter/</url>
@@ -33619,7 +33319,7 @@
     <salary_min>20.0</salary_min>
     <salary_max>28.0</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>  <ad>
     <id>OBS-7-US</id>
     <url>https://jobs.aisthis.com/us/carpenter/</url>
@@ -33683,6 +33383,6 @@
     <salary_min>21.6</salary_min>
     <salary_max>30.24</salary_max>
     <salary_frequency>hourly</salary_frequency>
-    <date>2026-03-24</date>
+    <date>2026-03-25</date>
   </ad>
 </ads>
