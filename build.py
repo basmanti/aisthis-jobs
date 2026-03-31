@@ -50,12 +50,12 @@ DEFAULT_COUNTRIES = ["NL", "DE", "FR", "BE", "UK", "US"]
 
 # Country config: code → (full name, addressCountry for JSON-LD, currency, rate multiplier)
 COUNTRIES = {
-    "NL": {"name": "Netherlands", "address_country": "NL", "currency": "EUR", "multiplier": 1.0},
-    "DE": {"name": "Germany",     "address_country": "DE", "currency": "EUR", "multiplier": 1.0},
-    "FR": {"name": "France",      "address_country": "FR", "currency": "EUR", "multiplier": 1.0},
-    "BE": {"name": "Belgium",     "address_country": "BE", "currency": "EUR", "multiplier": 1.0},
-    "UK": {"name": "United Kingdom", "address_country": "GB", "currency": "EUR", "multiplier": 1.0},
-    "US": {"name": "United States",  "address_country": "US", "currency": "USD", "multiplier": 1.08},
+    "NL": {"name": "Netherlands", "address_country": "NL", "currency": "EUR", "multiplier": 1.0, "city": "Amsterdam", "state": "North Holland"},
+    "DE": {"name": "Germany",     "address_country": "DE", "currency": "EUR", "multiplier": 1.0, "city": "Berlin", "state": "Berlin"},
+    "FR": {"name": "France",      "address_country": "FR", "currency": "EUR", "multiplier": 1.0, "city": "Paris", "state": "Île-de-France"},
+    "BE": {"name": "Belgium",     "address_country": "BE", "currency": "EUR", "multiplier": 1.0, "city": "Brussels", "state": "Brussels"},
+    "UK": {"name": "United Kingdom", "address_country": "GB", "currency": "EUR", "multiplier": 1.0, "city": "London", "state": "England"},
+    "US": {"name": "United States",  "address_country": "US", "currency": "USD", "multiplier": 1.08, "city": "New York", "state": "NY"},
 }
 
 
@@ -951,6 +951,21 @@ def _xml_escape(text):
             .replace("'", "&apos;"))
 
 
+def _unescape_html(text):
+    """Reverse HTML escaping for use inside CDATA blocks.
+    
+    Indeed requires raw HTML inside CDATA — NOT escaped entities.
+    Our blocks_to_html() escapes &, <, > in text content, which is
+    correct for browser rendering but breaks Indeed's XML parser.
+    """
+    return (text
+            .replace("&amp;", "&")
+            .replace("&lt;", "<")
+            .replace("&gt;", ">")
+            .replace("&quot;", '"')
+            .replace("&apos;", "'"))
+
+
 def _cluster_to_category(cluster):
     """Map our cluster names to generic job categories."""
     mapping = {
@@ -991,6 +1006,8 @@ def generate_indeed_feed(jobs, job_html):
 
     for job in jobs:
         description = job_html.get(job["id"], "")
+        # Indeed requires raw HTML inside CDATA — un-escape our HTML-escaped content
+        raw_description = _unescape_html(description)
         for cc in job["target_countries"]:
             if cc not in COUNTRIES:
                 continue
@@ -1009,20 +1026,19 @@ def generate_indeed_feed(jobs, job_html):
             url = f"{BASE_URL}/{cc.lower()}/{job['slug']}/"
 
             job_entries.append(f"""  <job>
-    <title>{_xml_escape(job['profession'])} — Observer Programme</title>
+    <title><![CDATA[{job['profession']} — Observer Programme]]></title>
     <date>{TODAY}</date>
-    <referencenumber>{_xml_escape(ref)}</referencenumber>
-    <url>{_xml_escape(url)}</url>
-    <company>Aisthis</company>
-    <city></city>
-    <state></state>
+    <referencenumber><![CDATA[{ref}]]></referencenumber>
+    <url><![CDATA[{url}]]></url>
+    <company><![CDATA[Aisthis]]></company>
+    <city><![CDATA[{country['city']}]]></city>
+    <state><![CDATA[{country['state']}]]></state>
     <country>{country['address_country']}</country>
-    <postalcode></postalcode>
-    <description>{_cdata(description)}</description>
-    <salary>{_xml_escape(salary_str)}</salary>
-    <jobtype>contract</jobtype>
-    <category>{_xml_escape(_cluster_to_category(job['cluster']))}</category>
-    <experience>{_experience_years(job['pay_tier'])}+ years</experience>
+    <description><![CDATA[{raw_description}]]></description>
+    <salary><![CDATA[{salary_str}]]></salary>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <category><![CDATA[{_cluster_to_category(job['cluster'])}]]></category>
+    <experience><![CDATA[{_experience_years(job['pay_tier'])}+ years]]></experience>
   </job>""")
 
     return f"""<?xml version="1.0" encoding="UTF-8"?>
@@ -1062,7 +1078,7 @@ def generate_jooble_feed(jobs, job_html):
     <link>{_xml_escape(url)}</link>
     <name>{_xml_escape(job['profession'])} — Observer Programme</name>
     <region>{_xml_escape(country['name'])}</region>
-    <description>{_cdata(description)}</description>
+    <description>{_cdata(_unescape_html(description))}</description>
     <pubdate>{today_jooble}</pubdate>
     <company>Aisthis</company>
     <salary>{_xml_escape(salary_str)}</salary>
@@ -1103,7 +1119,7 @@ def generate_adzuna_feed(jobs, job_html):
     <url>{_xml_escape(url)}</url>
     <title>{_xml_escape(job['profession'])} — Observer Programme</title>
     <company>Aisthis</company>
-    <description>{_cdata(description)}</description>
+    <description>{_cdata(_unescape_html(description))}</description>
     <country>{country['address_country']}</country>
     <category>{_xml_escape(_cluster_to_category(job['cluster']))}</category>
     <contract>Contract</contract>
