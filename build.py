@@ -1027,13 +1027,13 @@ def generate_indeed_feed(jobs, job_html):
 
             job_entries.append(f"""  <job>
     <title><![CDATA[{job['profession']} — Observer Programme]]></title>
-    <date>{TODAY}</date>
+    <date><![CDATA[{TODAY}]]></date>
     <referencenumber><![CDATA[{ref}]]></referencenumber>
     <url><![CDATA[{url}]]></url>
     <company><![CDATA[Aisthis]]></company>
     <city><![CDATA[{country['city']}]]></city>
     <state><![CDATA[{country['state']}]]></state>
-    <country>{country['address_country']}</country>
+    <country><![CDATA[{country['address_country']}]]></country>
     <description><![CDATA[{raw_description}]]></description>
     <salary><![CDATA[{salary_str}]]></salary>
     <jobtype><![CDATA[contract]]></jobtype>
@@ -1043,9 +1043,9 @@ def generate_indeed_feed(jobs, job_html):
 
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <source>
-  <publisher>Aisthis</publisher>
-  <publisherurl>https://www.aisthis.com</publisherurl>
-  <lastBuildDate>{build_date}</lastBuildDate>
+  <publisher><![CDATA[Aisthis]]></publisher>
+  <publisherurl><![CDATA[https://www.aisthis.com]]></publisherurl>
+  <lastBuildDate><![CDATA[{build_date}]]></lastBuildDate>
 {"".join(job_entries)}
 </source>"""
 
