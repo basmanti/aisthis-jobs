@@ -1198,6 +1198,13 @@ def main():
     landing_html = generate_landing_page(jobs)
     (OUTPUT_DIR / "index.html").write_text(landing_html, encoding="utf-8")
 
+    # Copy 404 page (GitHub Pages uses this for missing URLs)
+    page_404 = Path("404.html")
+    if page_404.exists():
+        import shutil
+        shutil.copy2(page_404, OUTPUT_DIR / "404.html")
+        print(f"   ✅ 404.html (custom not-found page)")
+
     # Generate sitemap
     sitemap_xml = generate_sitemap(all_urls)
     (OUTPUT_DIR / "sitemap-jobs.xml").write_text(sitemap_xml, encoding="utf-8")
