@@ -37,7 +37,6 @@ DATABASE_ID = "39e18306-969e-4fbe-8fee-35914297270f"
 BASE_URL = "https://jobs.aisthis.com"
 LOGO_URL = "https://www.aisthis.com/logo.png"
 APPLY_URL = "https://www.aisthis.com/quick-apply"
-OBSERVER_EMAIL = "observer.jobs@aisthis.com"
 OUTPUT_DIR = Path("./output")
 TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
@@ -403,10 +402,6 @@ def generate_page_html(job: dict, country_code: str, description_html: str) -> s
     slug = job["slug"]
     apply_url = f"{APPLY_URL}?profession={slug}&country={country_code}"
 
-    # Email subject line
-    email_subject = f"Observer Application — {job['profession']} — {country['name']}"
-    email_subject = email_subject.replace(" ", "%20").replace("—", "%E2%80%94")
-
     # Paused banner
     paused_banner = ""
     if job.get("status") == "Paused":
@@ -594,30 +589,6 @@ def generate_page_html(job: dict, country_code: str, description_html: str) -> s
             color: var(--text-light);
             margin-top: 0.75rem;
         }}
-        .apply-divider {{
-            display: flex;
-            align-items: center;
-            gap: 1rem;
-            margin: 1.25rem 0;
-            color: var(--text-light);
-            font-size: 0.85rem;
-        }}
-        .apply-divider::before, .apply-divider::after {{
-            content: "";
-            flex: 1;
-            border-top: 1px solid var(--border);
-        }}
-        .email-apply {{
-            font-size: 0.95rem;
-            color: var(--text-muted);
-        }}
-        .email-apply a {{
-            color: var(--text);
-            font-weight: 600;
-            text-decoration: none;
-            border-bottom: 1px solid var(--border);
-        }}
-        .email-apply a:hover {{ border-color: var(--accent); }}
         .paused-banner {{
             background: #fef3cd;
             border: 1px solid #f0d78c;
@@ -693,9 +664,6 @@ def generate_page_html(job: dict, country_code: str, description_html: str) -> s
         <div class="apply-cta">
             <a href="{apply_url}" class="apply-btn">Apply Now</a>
             <p class="apply-note">Takes ~1 minute. No login required.</p>
-            <div class="apply-divider">or</div>
-            <p class="email-apply">Send your CV and a short motivation to<br>
-            <a href="mailto:{OBSERVER_EMAIL}?subject={email_subject}">{OBSERVER_EMAIL}</a></p>
         </div>
     </main>
 
