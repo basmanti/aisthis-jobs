@@ -857,7 +857,6 @@ def generate_landing_page(jobs):
             <img src="{LOGO_URL}" alt="Aisthis" class="logo">
         </a>
         <nav class="header-nav">
-            <a href="https://www.aisthis.com/observers">Observers</a>
         </nav>
     </header>
 
