@@ -400,7 +400,7 @@ def generate_page_html(job: dict, country_code: str, description_html: str) -> s
 
     # Apply URL with profession + country params
     slug = job["slug"]
-    apply_url = f"{APPLY_URL}?profession={slug}&country={country_code}"
+    apply_url = f"{APPLY_URL}?profession={slug}&country={country_code}&utm_source=jobs_site"
 
     # Paused banner
     paused_banner = ""
@@ -637,7 +637,7 @@ def generate_page_html(job: dict, country_code: str, description_html: str) -> s
         <nav class="header-nav">
             <a href="{BASE_URL}/">Positions</a>
             <a href="https://www.aisthis.com/observers">Observers</a>
-            <a href="{APPLY_URL}" class="nav-cta">Apply</a>
+            <a href="{apply_url}" class="nav-cta">Apply</a>
         </nav>
     </header>
 
@@ -673,11 +673,23 @@ def generate_page_html(job: dict, country_code: str, description_html: str) -> s
         <div class="footer-links">
             <a href="https://www.aisthis.com/ourplan">Our Plan</a>
             <a href="https://www.aisthis.com/observers">Observers</a>
-            <a href="https://www.aisthis.com/apprentice">Apprentice</a>
             <a href="https://www.aisthis.com/trust">Privacy</a>
             <a href="https://www.aisthis.com/about">About</a>
         </div>
     </footer>
+    <script>
+    (function(){{
+        var p = new URLSearchParams(window.location.search);
+        var src = p.get('utm_source');
+        if(src){{
+            document.querySelectorAll('a[href*="quick-apply"]').forEach(function(a){{
+                var u = new URL(a.href);
+                u.searchParams.set('utm_source', src);
+                a.href = u.toString();
+            }});
+        }}
+    }})();
+    </script>
 </body>
 </html>"""
 
@@ -846,7 +858,6 @@ def generate_landing_page(jobs):
         </a>
         <nav class="header-nav">
             <a href="https://www.aisthis.com/observers">Observers</a>
-            <a href="https://www.aisthis.com/apprentice">Apprentice</a>
             <a href="{APPLY_URL}" class="nav-cta">Apply</a>
         </nav>
     </header>
@@ -866,7 +877,6 @@ def generate_landing_page(jobs):
         <div class="footer-links">
             <a href="https://www.aisthis.com/ourplan">Our Plan</a>
             <a href="https://www.aisthis.com/observers">Observers</a>
-            <a href="https://www.aisthis.com/apprentice">Apprentice</a>
             <a href="https://www.aisthis.com/trust">Privacy</a>
             <a href="https://www.aisthis.com/about">About</a>
         </div>
@@ -991,7 +1001,7 @@ def generate_indeed_feed(jobs, job_html):
                 salary_str = f"{sal_min}-{sal_max} {cur} per hour"
 
             ref = f"{job['post_id']}-{cc}"
-            url = f"{BASE_URL}/{cc.lower()}/{job['slug']}/"
+            url = f"{BASE_URL}/{cc.lower()}/{job['slug']}/?utm_source=indeed"
 
             job_entries.append(f"""  <job>
     <title><![CDATA[{job['profession']} — Observer Programme]]></title>
@@ -1040,7 +1050,7 @@ def generate_jooble_feed(jobs, job_html):
                 salary_str = f"{sym}{sal_min}-{sym}{sal_max}/hour"
 
             ref = f"{job['post_id']}-{cc}"
-            url = f"{BASE_URL}/{cc.lower()}/{job['slug']}/"
+            url = f"{BASE_URL}/{cc.lower()}/{job['slug']}/?utm_source=jooble"
 
             job_entries.append(f"""  <job>
     <link>{_xml_escape(url)}</link>
@@ -1080,7 +1090,7 @@ def generate_adzuna_feed(jobs, job_html):
                 salary_max = str(round(job["hourly_max"] * m, 2))
 
             ref = f"{job['post_id']}-{cc}"
-            url = f"{BASE_URL}/{cc.lower()}/{job['slug']}/"
+            url = f"{BASE_URL}/{cc.lower()}/{job['slug']}/?utm_source=adzuna"
 
             job_entries.append(f"""  <ad>
     <id>{_xml_escape(ref)}</id>
