@@ -858,7 +858,6 @@ def generate_landing_page(jobs):
         </a>
         <nav class="header-nav">
             <a href="https://www.aisthis.com/observers">Observers</a>
-            <a href="{APPLY_URL}" class="nav-cta">Apply</a>
         </nav>
     </header>
 
