@@ -256,7 +256,7 @@
         <nav class="header-nav">
             <a href="https://jobs.aisthis.com/">Positions</a>
             <a href="https://www.aisthis.com/observers">Observers</a>
-            <a href="https://www.aisthis.com/quick-apply" class="nav-cta">Apply</a>
+            <a href="https://www.aisthis.com/quick-apply?profession=freight-handler&country=US&utm_source=jobs_site" class="nav-cta">Apply</a>
         </nav>
     </header>
 
@@ -320,7 +320,7 @@
         </div>
 
         <div class="apply-cta">
-            <a href="https://www.aisthis.com/quick-apply?profession=freight-handler&country=US" class="apply-btn">Apply Now</a>
+            <a href="https://www.aisthis.com/quick-apply?profession=freight-handler&country=US&utm_source=jobs_site" class="apply-btn">Apply Now</a>
             <p class="apply-note">Takes ~1 minute. No login required.</p>
         </div>
     </main>
@@ -331,10 +331,22 @@
         <div class="footer-links">
             <a href="https://www.aisthis.com/ourplan">Our Plan</a>
             <a href="https://www.aisthis.com/observers">Observers</a>
-            <a href="https://www.aisthis.com/apprentice">Apprentice</a>
             <a href="https://www.aisthis.com/trust">Privacy</a>
             <a href="https://www.aisthis.com/about">About</a>
         </div>
     </footer>
+    <script>
+    (function(){
+        var p = new URLSearchParams(window.location.search);
+        var src = p.get('utm_source');
+        if(src){
+            document.querySelectorAll('a[href*="quick-apply"]').forEach(function(a){
+                var u = new URL(a.href);
+                u.searchParams.set('utm_source', src);
+                a.href = u.toString();
+            });
+        }
+    })();
+    </script>
 </body>
 </html>
