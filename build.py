@@ -23,7 +23,7 @@ import json
 import os
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -39,6 +39,7 @@ LOGO_URL = "https://www.aisthis.com/logo.png"
 APPLY_URL = "https://www.aisthis.com/quick-apply"
 OUTPUT_DIR = Path("./output")
 TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+VALID_THROUGH = (datetime.now(timezone.utc) + timedelta(days=180)).strftime("%Y-%m-%dT23:59:59Z")
 
 # Publish posts with these statuses
 # Ready = normal publish, Paused = publish with "paused hiring" banner
@@ -296,8 +297,16 @@ def generate_jsonld(job: dict, country_code: str, description_html: str) -> str:
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": country["address_country"],
+                "addressLocality": country["city"],
+                "addressRegion": country["state"],
             },
         },
+        "jobLocationType": "TELECOMMUTE",
+        "applicantLocationRequirements": {
+            "@type": "Country",
+            "name": country["address_country"],
+        },
+        "validThrough": VALID_THROUGH,
         "directApply": True,
     }
 
